@@ -11,6 +11,9 @@
 >Se si potessero stampare i dati visivi in modo da tenere una memoria storica delle migrazioni si potrebbe trovare un modo per sensibilizzare le persone riguardo al problema.
 
 
+
+
+
 # ***Immaterials : Light painting wifi***, Arnall, Knutsen, Martinussen, 2012
 
 - **Cos'è?**
@@ -22,6 +25,11 @@
 Significa anche mostrare che il paesaggio urbano si compone anche di cose che vanno oltre il limite del visibile.
 - **Cosa succederebbe se...**
 >Se si pensasse il progetto su una durata temporale e su una scala più grande si potrebbero generare visualizzazioni più complesse, quasi artistiche.
+
+
+
+
+
 
 
 # ***Monument***, Caleb Larsen, 2006
@@ -40,6 +48,9 @@ in rete le notizie di cronaca nera e ogni nuovo morto lascia andare una pallina 
 >Se anzichè usare palline gialle se ne userebbero rosse o dell'inchiostro rosso, l'effetto sarebbe molto più immediato e molto più forte dal punto di vista comunicativo.
 
 
+
+
+
 # ***The source***, greyworld
 
 - **Cos'è?**
@@ -49,6 +60,9 @@ in rete le notizie di cronaca nera e ogni nuovo morto lascia andare una pallina 
 - **Cosa significa?**
 >L'istallazione mostra i dati relativi ai movimenti della borsa di londra. Si accende al mattino in contemporanea all'apertura del mercato e si chiude la sera. The source intende mostrare la potenza e l'imprevedibilità del mercato, ponendosi come un organismo vivo nei confronti di chi vi si trova davanti.
 - **Cosa succederebbe se...**
+
+
+
 
 
 
