@@ -1,8 +1,6 @@
-**close reading**
 ### **the flow towards Europe**
 anno | 2015
-luogo |Peacock Visual Arts di Aberdeen, Scozia
-autore | [Lucify]()
+autore | Lucify
 articoli | <br>
 progetti simili |
 
