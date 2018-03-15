@@ -17,7 +17,7 @@ Un software scansiona ogni minuto i titoli di notizie provenienti da 4500 fonti 
 
 
 **what does it mean?** <br>
-Potenzialmente significa che la morte di queste persone dolvrebbe colpirci e toccarci, così come le palline fanno con i visitatori che si trovano di fronte all'installazione.
+Potenzialmente significa che la morte di queste persone dolvrebbe colpirci e toccarci emotivamente, così come le palline fanno fisicamente con i visitatori che si trovano di fronte all'installazione.
 
 **what if...** <br>
-questo sistema analizzasse tuttte le fonti mondiali e lanciasse una pallina di colore diverso o in base al paese dell'omicidio o in base al motivo dell'accaduto.
+Se questo sistema analizzasse tuttte le fonti mondiali e lanciasse una pallina di colore diverso o in base al paese dell'omicidio o in base al motivo dell'accaduto?
