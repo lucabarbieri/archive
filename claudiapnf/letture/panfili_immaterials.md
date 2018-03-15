@@ -1,6 +1,6 @@
 ### **immaterials: light painting WiFi**
 anno | 2012  
-luogo |Grunerlokka, Oslo (Norvegia)<br>
+luogo | Grunerlokka, Oslo (Norvegia)<br>
 autore | Timo Arnall e Voyoslo Studio <br>
 articoli | <br>
 progetti simili |
