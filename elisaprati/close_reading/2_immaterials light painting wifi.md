@@ -20,4 +20,4 @@ Questa installazione riflette sul tema dell'esplorare l'intangibile. <br>
 Immaterials è l'esempio di come si possa dare forma a ciò che normalmente non è possibile bedere ma in cui siamo immersi ogni giorno.
 
 **what if...** <br>
-questo metodo fosse applicato per visualizzare l'inquinamento dell'aria.
+Se questo metodo fosse applicato per visualizzare l'inquinamento dell'aria?
