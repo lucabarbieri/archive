@@ -1,7 +1,7 @@
 ### **Monument**
 anno | 2006  
 luogo |Peacock Visual Arts di Aberdeen, Scozia <br>
-autore | [Caleb Larsen  <br>
+autore | Caleb Larsen  <br>
 articoli |  <br>
 progetti simili |
 
