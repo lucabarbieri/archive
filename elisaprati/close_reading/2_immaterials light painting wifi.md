@@ -1,6 +1,6 @@
 **IMMATERIALS: LIGHT PAINTING WIFI**
 
-**anno**: 2015 <br>
+**anno**: 2012 <br>
 **luogo**: Oslo <br>
 **design**: Timo Arnall, Voyoslo Studio <br>
 **progetto**: [immaterials: light paiting wifi](https://vimeo.com/20412632)
