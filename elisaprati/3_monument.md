@@ -1,6 +1,6 @@
 **MONUMENT**
 
-**anno**: 2006 <br>
+**anno**: 2008 <br>
 **luogo**: Peacock Visual Arts di Aberdeen, Scozia <br>
 **design**: Caleb Larsen <br>
 **progetto**: [monument](http://caleblarsen.com/monument/)
