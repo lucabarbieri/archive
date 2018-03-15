@@ -1,5 +1,5 @@
-## W3 - Esercitazione - Giochi senza frontiere I
+# W3_ Esercitazione: mimesi
 
------
-
+------
+  
 _work in progress_
