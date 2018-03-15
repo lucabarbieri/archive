@@ -12,7 +12,7 @@
 The flow towards Europe è una visualizzazione interattiva e dinamica dei dati riguardanti le immigrazioni in Europa dal 2012 al 2017.
 
 **what does it work?** <br>
-Questa è una visualizzazione generata usando la libreria Javascript D3.
+La visualizzazione è generata usando la libreria Javascript D3.
 
 
 **what does it mean?** <br>
@@ -20,4 +20,4 @@ Questo progetto significa avere una maggiore consapevolezza di come sta cambiand
 
 
 **what if...** <br>
-i flussi avessero un colore diverso in base al paese di provenienza?
+Se i flussi avessero un colore diverso in base al paese di provenienza?
