@@ -6,12 +6,13 @@
 - C_ROMBOMOUSE: variazione
 - C1_QUADRANDOMMATRIXROTATE: 'disegnare' infiniti quadrati/rettangoli ognuno in una posizione casuale sullo schermo ruotati ognuno di un angolo a caso, con lato lungo a caso, colorati a caso...
 - C2_QUADRANDOMMATRIXROTATE: variazione
-- D_RANDOMWALKER: 'disegnare' un quadrato che si sposta a caso sullo schermo
-- D_RANDOMWALKEREDUCATO: 'disegnare' un quadrato che si sposta con velocità costante sullo schermo, direzione a caso, non esce mai dallo schermo
+- _*_ D_RANDOMWALKER: 'disegnare' un quadrato che si sposta a caso sullo schermo
+- _*_ D_RANDOMWALKEREDUCATO: 'disegnare' un quadrato che si sposta con velocità costante sullo schermo, direzione a caso, non esce mai dallo schermo
+- D_RANDOMWALKERLIMITRAINBOW: 'disegnare' un quadrato che si sposta con velocità costante sullo schermo, direzione a caso, non esce mai dallo schermo, ha i colori dell'arcobaleno, alla pressione di un tasto rinasce
 
 -----
 
-##### Temi affrontati: 
+##### Temi affrontati:
 - variabili
 - forme
 - for loop
