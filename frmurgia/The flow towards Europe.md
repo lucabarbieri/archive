@@ -2,7 +2,7 @@
 
 ![Alt Text](https://media.giphy.com/media/5mYw6ER4qFFKY7VBEE/giphy.gif)
 
-https://www.lucify.com/the-flow-towards-europe/ <br>
+[Progetto](https://www.lucify.com/the-flow-towards-europe/)<br>
 
 Autori:<br>
 [Juho Ojalae](https://github.com/juhoojala) <br>
