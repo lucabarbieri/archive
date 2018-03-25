@@ -8,7 +8,7 @@ autori: [Timo Arnall](http://www.elasticspace.com/), Jørn Knutsen e
 [video del progetto](https://vimeo.com/20412632) <br>
 
 
-![Alt Text](http://gph.is/2IyRCmt)
+![Alt Text](https://media.giphy.com/media/8qxiyrvncsGy5PE3ka/giphy.gif/)
 
 
 ### What is
