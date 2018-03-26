@@ -13,9 +13,10 @@
 # The flow towards Europe
 ## Lucify, 2015
 - **Cos'è?**
->The flow towards Europe è una mappa interattiva open source che rappresenta il flusso dei richiedenti asilo politico, in viaggio dall'Africa e il Medio Oriente verso l'Europa.
+
+>The flow towards Europe è una mappa interattiva open source, installata su un sito web, che rappresenta il flusso dei richiedenti asilo politico, in viaggio dall'Africa e il Medio Oriente verso l'Europa.
 - **Come funziona?**
->UNHCR, l'agenzia delle Nazioni Unite per i rifugiati, pubblica mensilmente i conteggi dei richiedenti asilo politico sulla base dei dati raccolti dai paesi di destinazione. Questi dati, questi numeri di persone, sono stati tradotti dai progettisti di The flow towards Europe in pallini bianchi che si muovono sovrimpressionati ad una cartina che descrive in outline Europa, Africa e Medio Oriente. Secondo le caratteristiche del dispositivo ogni pallino rappresenta 25 o 50 persone. Ogni pallino ha un punto di partenza (Africa o Medio Oriente) e un punto di destinazione in Europa. Spostando il cursore su un paese della cartina è possibile isolare il flusso interessato da quella nazione e approfondire il dato, espresso in numeri, di immigrati o emigranti. A seconda del paese scelto il numero sarà positivo o negativo.
+>UNHCR, l'agenzia delle Nazioni Unite per i rifugiati, pubblica mensilmente i conteggi dei richiedenti asilo politico sulla base dei dati raccolti dai paesi di destinazione. Questi dati, questi numeri di persone, sono stati tradotti, grazie ai linguaggi React, D3, Pixy, dai progettisti di The flow towards Europe in pallini bianchi che si muovono sovrimpressionati ad una cartina che descrive in outline Europa, Africa e Medio Oriente. Secondo le caratteristiche del dispositivo ogni pallino rappresenta 25 o 50 persone. Ogni pallino ha un punto di partenza (Africa o Medio Oriente) e un punto di destinazione in Europa. Spostando il cursore su un paese della cartina è possibile isolare il flusso interessato da quella nazione e approfondire il dato, espresso in numeri, di immigrati o emigranti. A seconda del paese scelto il numero sarà positivo o negativo.
 - **Cosa significa?**
 >The flow towards Europe vuole colpire il più possibile l'utente. Vedendo questo intuitivo, rapido e florido flusso di pallini lo spettatore rielabora l'immagine in persone. Questo tipo di figurazione mentale genera in ognuno di noi la propria reazione ma sicuramente non ci lascia indifferenti rispetto ad un dato significativo ben rappresentato.
 - **E se fosse... ?!**
@@ -25,7 +26,7 @@
 # Monument
 ## Caleb Larsen, 2006
 - **Cos'è?**
-> Monument è un'installazione da interno, museale. Composta da un box trasparente pieno di BB gialli opportunamente lasciati cadere nello spazio.
+> Monument è un'installazione interattiva da interno, museale. Composta da un box trasparente pieno di BB gialli opportunamente lasciati cadere nello spazio.
 - **Come funziona?**
 > Un software costruito ad hoc per l'occasione legge ogni minuto i titoli delle notizie provenienti da 4.500 diverse fonti di notizie inglesi in tutto il mondo alla ricerca di persone uccise. Un algoritmo analizza i dati e il dispositivo rilascia una pallina gialla per ogni persona uccisa. Circa 20.000 palle cadono ogni mese e si accumulano sul pavimento della Peacock Visual Arts ad Aberdeen, importante galleria scozzese, durante il corso dell'esposizione.
 - **Cosa significa?**
