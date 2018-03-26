@@ -13,6 +13,7 @@
 # The flow towards Europe
 ## Lucify, 2015
 - **Cos'è?**
+
 >The flow towards Europe è una mappa interattiva open source, installata su un sito web, che rappresenta il flusso dei richiedenti asilo politico, in viaggio dall'Africa e il Medio Oriente verso l'Europa.
 - **Come funziona?**
 >UNHCR, l'agenzia delle Nazioni Unite per i rifugiati, pubblica mensilmente i conteggi dei richiedenti asilo politico sulla base dei dati raccolti dai paesi di destinazione. Questi dati, questi numeri di persone, sono stati tradotti, grazie ai linguaggi React, D3, Pixy, dai progettisti di The flow towards Europe in pallini bianchi che si muovono sovrimpressionati ad una cartina che descrive in outline Europa, Africa e Medio Oriente. Secondo le caratteristiche del dispositivo ogni pallino rappresenta 25 o 50 persone. Ogni pallino ha un punto di partenza (Africa o Medio Oriente) e un punto di destinazione in Europa. Spostando il cursore su un paese della cartina è possibile isolare il flusso interessato da quella nazione e approfondire il dato, espresso in numeri, di immigrati o emigranti. A seconda del paese scelto il numero sarà positivo o negativo.
