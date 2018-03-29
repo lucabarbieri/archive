@@ -3,7 +3,7 @@
 **anno**: 2015 <br>
 **design**: Lucify <br>
 **progetto**: [The flow towards europe](https://www.lucify.com/the-flow-towards-europe/) <br>
-**riferimenti**: [UNHCR](http://popstats.unhcr.org/en/asylum_seekers_monthly, [+](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50), [+](https://www.youtube.com/watch?v=9MRA40-WkXg), [+](https://yle.fi/uutiset/3-8298830)
+**riferimenti**: [UNHCR](http://popstats.unhcr.org/en/asylum_seekers_monthly), [+](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50), [+](https://www.youtube.com/watch?v=9MRA40-WkXg), [+](https://yle.fi/uutiset/3-8298830)
 
 
 ![the flow](https://dublin.sciencegallery.com/trauma/assets/img/exhibits/the-flow-towards-europe.jpg)
