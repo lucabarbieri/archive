@@ -23,4 +23,4 @@ Questo progetto vuole evidenziare l'entità della crisi dei rifugiati in un modo
 
 
 **what if...** <br>
-Se i flussi avessero un colore diverso in base alla ragione per cui sono partiti?
+Se il percorso dei trattini rispettasse quello realmente fatto dalle persone?
