@@ -4,7 +4,7 @@
 **luogo**: Peacock Visual Arts di Aberdeen, Scozia <br>
 **design**: Caleb Larsen <br>
 **progetto**: [monument](http://caleblarsen.com/monument/) <br>
-**riferimenti**: [+](http://webcache.googleusercontent.com/search?q=cache:http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html&gws_rd=cr&dcr=0&ei=mt28Wua3KMOVkwWy2LCIDg),
+**riferimenti**: [+](http://webcache.googleusercontent.com/search?q=cache:http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html&gws_rd=cr&dcr=0&ei=mt28Wua3KMOVkwWy2LCIDg), [+](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)
 
 
 ![](http://i0.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_03.jpg)
@@ -25,4 +25,5 @@ Si possono notare anche altri parallelismi. La posizione del contenitore e la sc
 
 
 **what if...** <br>
-Se le palline avessero un colore diverso in base al motivo dell'omicidio? 
+Se le palline avessero un colore diverso in base al motivo dell'omicidio? <br>
+Oppure se le palline corrispondessero al numero di vite salvate? 
