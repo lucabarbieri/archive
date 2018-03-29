@@ -10,20 +10,19 @@
 
 
 **what is it** <br>
-Installazione urbana che visualizza  in tempo reale i flussi della rete wifi della città di Oslo.
+Visualizzazione urbana che riporta in tempo reale la qualità materiale e contestuale della della rete wifi della città di Oslo.
 
 
 **what does it work** <br>
-Un lettore RFID effettua in continuazione scansioni e invia segnali ad una fila di 80 led attaccati su una barra (alta 4m). Ogni volta che viene mandato un segnale i led si accendono.
-
-le luci a led si accendevano e pulsavano secondo la forza della rete WiFi in quel luogo e in quel momento. Grazie a un microcontrollore fissato sul bastone, più forte era il segnale WiFi, più luci si accendevano dal basso verso l'alto.
+Gli autori hanno studiato e costruito una barra di misurazione WiFi (alta 4m) composta da 80 led che riceve segnali da un lettore RFID (collocato in cima alla barra) che effettua in continuazione scansioni della potenza del segnale WiFi. 
+Ogni volta che viene mandato un segnale i led si accendono (dal basso verso l'alto) in base alla forza della rete WiFi in un determinato luogo e in un determinato momento. <br>
+Quindi, quando la barra viene spostata nello spazio visualizza le diverse potenze del segnale WiFi. Attraverso fotografie ad alta esposizione è stato possibile ottenere un grafico che mostra il cambiamento di potenza WiFi.
 
 
 **what does it mean** <br>
-Questa installazione riflette sul tema dell'esplorare l'intangibile. <br>
-Immaterials è l'esempio di come si possa dare forma a ciò che normalmente non è possibile bedere ma in cui siamo immersi ogni giorno.
-
-se i nostri occhi non vedono niente non significa che lo spazio sia libero
+Questa installazione riflette sul tema dell'esplorare l'intangibile. Immaterials è l'esempio di come si possa dare forma a ciò che normalmente non è possibile vedere ma in cui si è immersi ogni giorno. Il progetto fa riflettere su quante costruzioni esistano e in cui ci si imbatte ogni giorno. Se gli occhi non vedono niente non significa che lo spazio sia libero. <br>
+L'intento degli autori è quello di esplorare e rivelare quale sia il terreno immateriale del WiFi e come si rapporta alla città.
+La città è piena di un invisibile panorama di reti che sta diventando una parte intrecciata della vita quotidiana. Le reti WiFi e i telefoni cellulari sempre più sofisticati stanno iniziando a influenzare il modo in cui gli ambienti urbani sono vissuti e compresi. 
 
 **what if...** <br>
 Se questo metodo fosse applicato per visualizzare l'inquinamento dell'aria?
