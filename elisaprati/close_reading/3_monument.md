@@ -9,14 +9,14 @@
 ![](http://i0.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_03.jpg)
 
 
-**what is it?** <br>
-Monument è un'installazione artistica che mostra il numero di omicidi in real time.
+**what is it** <br>
+Monument è un'installazione artistica che mostra il numero di omicidi negli stati uniti con aggiornamento real time.
 
-**what does it work?** <br>
+**what does it work** <br>
 Un software scansiona ogni minuto i titoli di notizie provenienti da 4500 fonti inglesi. Un algoritmo analizza i sati e il dispositivo collocato all'interno del museo lancia una pallina ogni volta che una persona viene uccisa.
 
 
-**what does it mean?** <br>
+**what does it mean** <br>
 Potenzialmente significa che la morte di queste persone dolvrebbe colpirci e toccarci emotivamente, così come le palline fanno fisicamente con i visitatori che si trovano di fronte all'installazione.
 
 **what if...** <br>
