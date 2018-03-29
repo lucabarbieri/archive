@@ -9,7 +9,7 @@
 
 
 **what is it** <br>
-The flow towards Europe è un insieme di data visualisations (alcune dinamiche e interattive) che mostrano il flusso dei richiedenti asilo nei paesi europei dal 2012 al 2017.
+The flow towards Europe è una data visualisation dinamica ed interattiva che mostra il flusso dei richiedenti asilo nei paesi europei dal 2012 al 2017.
 
 
 **what does it work** <br>
@@ -19,8 +19,8 @@ L'utente può interagire con la visualizzazione in tre modi: posizionare il curs
 
 
 **what does it mean** <br>
-Questo progetto significa avere una maggiore consapevolezza di come sta cambiando la distribuzione demografica verso l'Eropa, e con essa anche l'etnia all'interno dei paesi.
+Questo progetto vuole evidenziare l'entità della crisi dei rifugiati in un modo intuitivo, memorabile e coinvolgente per portare l'utente a riflettere su quanto gli europei non si rendendo conto di che cosa significhi che così tante persone abbiano avuto la necessità di fare richiesta di asilo politico negli ultimi anni.
 
 
 **what if...** <br>
-Se i flussi avessero un colore diverso in base al paese di provenienza?
+Se i flussi avessero un colore diverso in base alla ragione per cui sono partiti?
