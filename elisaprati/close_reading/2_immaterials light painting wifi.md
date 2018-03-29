@@ -10,7 +10,7 @@
 
 
 **what is it** <br>
-Visualizzazione urbana che riporta in tempo reale la qualità materiale e contestuale della della rete wifi della città di Oslo.
+_Immaterials: light painting wifi_ è una ricerca che ha come risultato la visualizzazione della qualità materiale e contestuale della della rete wifi della città di Oslo.
 
 
 **what does it work** <br>
