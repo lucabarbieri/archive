@@ -18,16 +18,10 @@ Ogni minuto un software scansiona i titoli di notizie online provenienti da 4500
 
 
 **what does it mean** <br>
-Trovandosi di fronte a questa installazione senza sapere di che cosa si tratta l'utente si desidera che le palline scendano nel momento in cui è presente. Inconsciamente quindi il visitatore sta desiderando che una persona venga uccisa. <br>
-Si possono notare alcuni parallelismi tra la caduta delle palline e gli omicidi rappresentati: le palline cadendo potrebbero colpire e toccare (fisicamente) alcuni visitatori, altri sarebbero vicini e testimoni di tale avvenimento ed altri ancora ne sarebbero all'oscuro; allo stesso modo gli omicidi toccano e colpiscono (emotivamente) di più le persone vicine alla vittima mentre altre vivono l'accaduto in maniera totalmente diversa ed oggettiva.
+Trovandosi di fronte a questa installazione senza sapere di che cosa si tratta, l'utente desidera che le palline cadano nel momento in cui è presente. Inconsciamente quindi il visitatore sta desiderando che in quel momento una persona venga uccisa. <br>
+Si possono notare alcuni parallelismi tra la caduta delle palline e gli omicidi rappresentati: le palline cadendo potrebbero colpire e toccare (fisicamente) alcuni visitatori, altri sarebbero vicini e testimoni di tale avvenimento ed altri ancora ne sarebbero all'oscuro; allo stesso modo gli omicidi toccano e colpiscono (emotivamente) di più le persone vicine alla vittima mentre altre vivono l'accaduto in maniera oggettiva o addirittura ne sono all'oscuro. <br>
+Si possono notare anche altri parallelismi. La posizione del contenitore e la scelta delle palline sono elementi significativi: le palline una volta toccata terra iniziano a rimbalzare numerevoli volte prima di fermarsi, ed alcune si posizionano in punti più visivili mentre altre in punti più nascosti. Allo stesso modo la notizia di determinati omicidi "rimbalza" tra i notiziari per più volte e per più tempo rispetto ad altre, conquistando una posizione nella mente delle persone più o meno di rilievo.
 
-<Potenzialmente significa che le palline potrebbero toccare e colpire alcuni visitatori così come le morti delle persone non colpiscono e toccano emotivamente tutti, ma solo alcune, solo quelle più vicine all'accaduto, mentre quelle all'oscuro ne hanno un'impressione diversa.>
-
-<Potenzialmente significa che la morte di queste persone dolvrebbe colpire e toccare emotivamente le persone, così come le palline fanno fisicamente con i visitatori che si trovano di fronte all'installazione.>
-
-la dimensione delle palline è un elemento su cui si potrebbe riflettere. Perchè così piccole? è interessante notare che siano palline da softair, quindi vi è un legame con le pistole "giocattolo". 
 
 **what if...** <br>
-Se questo sistema analizzasse tuttte le fonti mondiali e lanciasse una pallina di colore diverso o in base al paese dell'omicidio o in base al motivo dell'accaduto?
-
-le palline cadesero nell'esatta posizione in cui è avvenuto l'omicidio?
+Se le palline avessero un colore diverso in base al motivo dell'omicidio? 
