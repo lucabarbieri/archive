@@ -14,7 +14,7 @@ The flow towards Europe è una data visualisation dinamica ed interattiva che mo
 
 **what does it work** <br>
 La visualizzazione è generata usando alcune librerie Javascript (react, d3.js, pixi.js) che utilizzano i dati open source aggiornati mensilmente dall'United Nations High Commission for Refugee Agency. <br>
-Per realizzare la visualizzazione i dati sono stati organizzati per paese d'origine e per paese d'arrivo in rapporto al tempo. Sono state adottate alcune convenzioni al fine di ottenere una rappresentazione più chiara e pulita: un singolo trattino rappresenta un gruppo di 25 persone; ogni paese ha un unico punto di riferimento (nella posizione della capitale) dal quale partono ed arrivano i trattini. Il tragitto rappresentato dai trattini non riporta quello realmente effettuato dalle persone, mentre la velocità di movimento rimane fedele alla reale durata del tragitto. <br>
+Per realizzare la visualizzazione i dati sono stati organizzati per paese d'origine e per paese d'arrivo in rapporto ad un arco temporale. Sono state adottate alcune convenzioni al fine di ottenere una rappresentazione più chiara e pulita: un singolo trattino rappresenta un gruppo di 25 persone; ogni paese ha un unico punto di riferimento (nella posizione della capitale) dal quale partono ed arrivano i trattini. Il tragitto rappresentato dai trattini non riporta quello realmente effettuato dalle persone, mentre la velocità di movimento rimane fedele alla reale durata del tragitto. <br>
 L'utente può interagire con la visualizzazione in tre modi: posizionare il cursore su un paese in modo da vedere i flussi relativi solo al paese selezionato, scegliere dalla timeline una data e scegliere dallo slider la velocità di visualizzazione.
 
 
