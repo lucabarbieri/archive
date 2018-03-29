@@ -10,7 +10,7 @@
 
 
 **what is it** <br>
-_Immaterials: light painting wifi_ è una ricerca che ha come risultato la visualizzazione della qualità materiale e contestuale della della rete wifi della città di Oslo.
+_Immaterials: light painting wifi_ è un progetto che ha come risultato la visualizzazione della qualità materiale e contestuale della della rete wifi della città di Oslo.
 
 
 **what does it work** <br>
@@ -20,7 +20,7 @@ Quindi, quando la barra viene spostata nello spazio visualizza le diverse potenz
 
 
 **what does it mean** <br>
-Questa installazione riflette sul tema dell'esplorare l'intangibile. Immaterials è l'esempio di come si possa dare forma a ciò che normalmente non è possibile vedere ma in cui si è immersi ogni giorno. Il progetto fa riflettere su quante costruzioni esistano e in cui ci si imbatte ogni giorno. Se gli occhi non vedono niente non significa che lo spazio sia libero. <br>
+Questa installazione riflette sul tema dell'esplorare l'intangibile. Immaterials è l'esempio di come si possa dare forma a ciò che normalmente non è possibile vedere ma in cui si è immersi ogni giorno. Il progetto fa riflettere su quante costruzioni invisibili esistano e in cui ci si imbatte continuamente. Se gli occhi non vedono niente non significa che lo spazio sia libero. <br>
 L'intento degli autori è quello di esplorare e rivelare quale sia il terreno immateriale del WiFi e come si rapporta alla città.
 La città è piena di un invisibile panorama di reti che sta diventando una parte intrecciata della vita quotidiana. Le reti WiFi e i telefoni cellulari sempre più sofisticati stanno iniziando a influenzare il modo in cui gli ambienti urbani sono vissuti e compresi. 
 
