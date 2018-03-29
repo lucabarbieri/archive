@@ -9,10 +9,20 @@
 
 
 **what is it?** <br>
-The flow towards Europe è una visualizzazione interattiva e dinamica dei dati riguardanti le immigrazioni in Europa dal 2012 al 2017.
+The flow towards Europe è un insieme di data visualisations (alcune dinamiche e interattive) che mostrano il flusso dei richiedenti asilo nei paesi europei dal 2012 al 2017.
+
 
 **what does it work?** <br>
+Il progetto è basato sulla visualizzazione dei dati forniti dalle Nazioni Unite per i rifugiati (UNHCR).
+La visualizzazione principla di questo progetto mostra una cartina 
+
+L'utente può interagire con questa visualizzazione scegliendo attraverso un slider la velocità di visualizzazione, selezionando dalla timeline una data specifica e visualizzare i flussi relativi ad un unico paese direttamente passando il mause sulla cartina.  
+
+Per realizzare le visualizzazione sono state utilizzate alcune librerie di JavaScript 
 La visualizzazione è generata usando la libreria Javascript D3.
+
+//aggiornamento mensile
+
 
 
 **what does it mean?** <br>
