@@ -15,8 +15,8 @@ _Immaterials: light painting wifi_ è un progetto che ha come risultato la visua
 
 **what does it work** <br>
 Gli autori hanno studiato e costruito una barra di misurazione WiFi (alta 4m) composta da 80 led che riceve segnali da un lettore RFID (collocato in cima alla barra) che effettua in continuazione scansioni della potenza del segnale WiFi. 
-Ogni volta che viene mandato un segnale i led si accendono (dal basso verso l'alto) in base alla forza della rete WiFi in un determinato luogo e in un determinato momento. <br>
-Quindi, quando la barra viene spostata nello spazio visualizza le diverse potenze del segnale WiFi. Attraverso fotografie ad alta esposizione è stato possibile ottenere un grafico che mostra il cambiamento di potenza WiFi.
+Ogni volta che viene mandato un segnale i led si accendono (dal basso verso l'alto) in base alla forza della rete WiFi in un determinato luogo e in un determinato momento. Quindi, quando la barra viene spostata nello spazio visualizza le diverse potenze del segnale WiFi. <br> 
+Attraverso fotografie a lunga esposizione è stato possibile ottenere un grafico che mostra il cambiamento di potenza WiFi.
 
 
 **what does it mean** <br>
