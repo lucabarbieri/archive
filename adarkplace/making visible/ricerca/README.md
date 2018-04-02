@@ -4,35 +4,15 @@
 
 **Umanità**
 
-strumenti dimostrativi -> strumenti riflessivi
-
-mancanza di personalità - solo visione collettiva
-
-educazione - etica
-
-fiducia
+strumenti dimostrativi -> strumenti riflessivi - mancanza di personalità - solo visione collettiva - educazione - etica - fiducia
 
 **Filtro**
 
-nascondere per mostrare
-
-filtro online
-
-selezione - Darwin
-
-!! GENETIC PROGRMMING !!
-
-mitocondri
+nascondere per mostrare - filtro online - selezione - Darwin - GENETIC PROGRMMING - mitocondri
 
 **Opposto**
 
-cosa c'è dall'altra parte?
-
-dimostrazione per opposizione
-
-fisica ceh muove le cose
-
-
+cosa c'è dall'altra parte? - dimostrazione per opposizione - fisica che muove le cose
 
 ### Riferimenti
 
