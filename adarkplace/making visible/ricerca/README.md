@@ -36,7 +36,7 @@ fisica ceh muove le cose
 
 ### Riferimenti
 
-***Genetic Programming***
+***- Genetic Programming***
 
 **Audio Damage Automaton - cellular automata sequencer** [+](https://www.audiodamage.com/collections/software/products/ad020-automaton)
 
