@@ -8,6 +8,11 @@ PROJECT NIMBUS <br>
 [+](http://www.smartworld.it/tecnologia/questo-cavallo-laser-e-unopera-darte-proiettata-sulle-nuvole-video.html) <br>
 
 
+RAPPRESENTARE IL SILENZIO / SUONO <br>
+[+](https://www.linkedin.com/feed/update/urn:li:activity:6362375464652206081/) _ 
+
+
+
 
 ISPIRAZIONE GENERALE <br>
 [+](http://www.artribune.com/television/2017/09/video-iginio-de-luca-sottosale-saline-puglia/) _ 
