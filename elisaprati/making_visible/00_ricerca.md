@@ -9,5 +9,6 @@ PROJECT NIMBUS <br>
 
 
 
-
-[+](http://www.artribune.com/television/2017/09/video-iginio-de-luca-sottosale-saline-puglia/)
+ISPIRAZIONE GENERALE <br>
+[+](http://www.artribune.com/television/2017/09/video-iginio-de-luca-sottosale-saline-puglia/) _ 
+[+](http://www.artribune.com/television/2018/02/video-installazione-interattiva-selfie-ghiaia-varsavia/)
