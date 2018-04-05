@@ -16,11 +16,11 @@ cosa c'è dall'altra parte? - dimostrazione per opposizione - fisica che muove l
 
 ### Riferimenti
 
-................
+--------------------
 
 GENETIC
 
-................
+--------------------
 
 **Audio Damage Automaton - cellular automata sequencer** [+](https://www.audiodamage.com/collections/software/products/ad020-automaton)
 
@@ -37,11 +37,11 @@ GENETIC
 
 *These works come from a study of organic natural forms and their relationship to simple mathematical rules. Influenced by the work of D'Arcy Thompson, Alan Turing and Ernst Haeckel, they study how intricate forms of plant and coral like structures can be created by digital simulation of flow and deposition. These works use variations on an algorithm called Diffusion Limited Aggregation: a simple system of simulating growth by repeated deposition. The changes to the rules effectively represent modifications to environment that the form is growing in.*
 
-................
+--------------------
 
 MACHINE GENERATION
 
-................
+--------------------
 
 **Neural Evolution – Building a natural selection process with AI**
 [+](http://www.creativeapplications.net/news/neural-evolution-building-a-natural-selection-process-with-ai/)
@@ -60,11 +60,11 @@ MACHINE GENERATION
 [+](https://vimeo.com/259989412)
 [+](https://paraicmcgloughlin.com/)
 
-................
+--------------------
 
 PHYSICAL VISUALIZATION/TRASPOSITION
 
-................
+--------------------
 
 **XYscope - Processing meets Oscilloscope**
 [+](https://vimeo.com/226597331)
