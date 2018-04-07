@@ -13,11 +13,11 @@ progetti simili | [+](http://www.creativeapplications.net/reviews/otherly-space-
 È uno studio sulla visualizzazione dell'intensità del segnale WiFi attraverso la tecnica fotografica del light painting realizzatosi nella città di Oslo.
 
 #### How it works
-Lo studio prevede l’uso di aste ricoperte da strisce di led. Questi, connessi ad una scheda di rete collegata ad un computer, indicano accendendosi e spegnendosi la potenza del WiFi rilevato. Muovendo l’asta nello spazio i led reagiscono all’intensità del segnale e, attraverso la tecnica fotografica del light painting, è possibile catturarne il comportamento.
+Lo studio prevede l’uso di aste ricoperte da strisce di led. Questi, connessi ad una scheda di rete collegata ad un computer, indicano accendendosi e spegnendosi la potenza del WiFi rilevato. Muovendo l’asta nello spazio, i led reagiscono all’intensità del segnale e, attraverso la tecnica fotografica del light painting, se ne cattura il comportamento.
 
 
 #### What does it mean
-Il progetto intende esaltare la forza della rete utilizzando un linguaggio visivo che ne sfrutta le potenzialità. Inoltre vuole rendere visibile ciò che, seppur invisibile ai nostri occhi, usiamo quotidianamente, ponendo l’accento sull’inconsapevolezza con cui fruiamo di certi strumenti. La scelta di unire qualcosa di immateriale come la luce alla fisicità dello spazio cittadino rafforza ulteriormente il messaggio del progetto.
+Il progetto vuole esaltare la forza della rete utilizzando un linguaggio visivo che ne sfrutta le potenzialità. Inoltre vuole rendere visibile ciò che, seppur invisibile ai nostri occhi, usiamo quotidianamente, ponendo l’accento sull’inconsapevolezza con cui fruiamo di certi strumenti. La scelta di unire qualcosa di immateriale come la luce alla fisicità dello spazio cittadino rafforza ulteriormente il messaggio del progetto.
 
 #### What if
-Cosa succederebbe se il segnale fosse rappresentato attraverso il suono anzichè la luce? Cosa succederebbe se l'installazione visualizzasse le interazioni che avvengono attraverso la rete?
+Cosa succederebbe se il segnale fosse rappresentato attraverso il suono anzichè la luce? Cosa succederebbe se l'installazione visualizzasse le interazioni che avvengono attraverso la rete, come upload  e download?
