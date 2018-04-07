@@ -2,7 +2,7 @@
 anno | 2012  
 luogo | Grunerlokka, Oslo (Norvegia)<br>
 autore | Timo Arnall e Voyoslo Studio <br>
-articoli | <br>
+articoli | [link] (http://www.creativeapplications.net/arduino-2/oh-my-calling-for-god-in-48-languages-using-twitter-api/) <br> 
 progetti simili |
 
 
