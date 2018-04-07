@@ -2,8 +2,10 @@
 anno | 2012  
 luogo | Grunerlokka, Oslo (Norvegia)<br>
 autore | [Timo Arnall](http://www.elasticspace.com/) and [Voyoslo Studio](http://voyoslo.com/)<br> 
-articoli | [+](http://www.creativeapplications.net/reviews/otherly-space-knowledge-questions-of-knowledge-in-the-age-of-data/) <br> 
-progetti simili |
+articoli | [+](http://voyoslo.com/projects/immaterials-wifi-light-painting/) 
+[+](http://www.designboom.com/design/immaterials-light-painting-wifi-by-timo-arnall-jorn-knutsen-einar-sneve-martinussen/) 
+[+](http://onlinelibrary.wiley.com/store/10.1111/j.1740-9713.2013.00683.x/asset/j.1740-9713.2013.00683.x.pdf;jsessionid=59514BD3BCDAF3B661EE990359E0F7AE.f02t03?v=1&t=j0ze4a20&s=92fd4a1950509d60c8c44615119e6f814018c4f3) <br> 
+progetti simili | [+](http://www.creativeapplications.net/reviews/otherly-space-knowledge-questions-of-knowledge-in-the-age-of-data/)
 
 
 
