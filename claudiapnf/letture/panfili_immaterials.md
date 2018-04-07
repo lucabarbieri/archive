@@ -13,7 +13,7 @@ progetti simili | [+](http://www.creativeapplications.net/reviews/otherly-space-
 È uno studio sulla visualizzazione dell'intensità del segnale WiFi attraverso la tecnica fotografica del light painting realizzatosi nella città di Oslo.
 
 #### How it works
-Lo studio prevede l’uso di aste ricoperte da strisce di led. Essi, connessi ad una scheda di rete collegata ad un computer, indicano accendendosi e spegnendosi la potenza del WiFi rilevato. Muovendo l’asta nello spazio i led reagiscono all’intensità del segnale e, attraverso la tecnica fotografica del light painting, è possibile catturarne il comportamento.
+Lo studio prevede l’uso di aste ricoperte da strisce di led. Questi, connessi ad una scheda di rete collegata ad un computer, indicano accendendosi e spegnendosi la potenza del WiFi rilevato. Muovendo l’asta nello spazio i led reagiscono all’intensità del segnale e, attraverso la tecnica fotografica del light painting, è possibile catturarne il comportamento.
 
 
 #### What does it mean
