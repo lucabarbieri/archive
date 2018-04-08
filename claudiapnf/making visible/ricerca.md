@@ -11,6 +11,7 @@
 Maps are often an abstraction of the physical or conceptual world - a symbolic depiction of a space or idea that allows one to understand and navigate unfamiliar topography or complex topology. But while most conventional charts, plans and diagrams claim to offer an accurate, even objective picture of the world, each one is bound by the specific agendas of its creators and users.
 [...] cartographies can be altered endlessly to reflect different priorities, hierarchies, experiences, points of view and destinations. *Mapping it out: An Alternative Atlas of Contemporary Cartographies, Hans Ulrich Obrist, Tom McCarthy, 2014*
 
+*Atlante delle emozioni, Giuliana Bruno, 2015* [+](http://docenti.unimc.it/g.cipolletta/teaching/2016/16511/files/lezione-7_laboratorio-di-arte-visuale-e-tecnologia/Bruno-AtlanteEmozioni.pdf) <br>
 Memoria in atto: l'arte della mappatura
 Se nel 1654 il salotto di Scudéry riuscì a produrre una Carte de Tendre fu perché,
 assorbite varie tattiche topografiche, tra cui la seduzione architettonica del discorso
@@ -48,7 +49,7 @@ formarsi queste immagini. C'è, dunque, bisogno di luoghi o immaginari o reali [
 e rappresentazioni mnemoniche, che debbono assolutamente essere plasmate [. . .] come
 afferma Cicerone, dei luoghi come della cera.(Quintiliano, Istituzione oratoria, UTET,
 Torino, 1968XI 2, 17 sgg,)
-*Atlante delle emozioni, Giuliana Bruno, 2015* <br>
+
 *Visual Complexity: Mapping Patterns of Information, Manuel Lima*  [+](http://www.creativeapplications.net/featured/visual-complexity-mapping-patterns-of-information-books/)
 
 #### clearly see
