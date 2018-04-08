@@ -2,7 +2,7 @@
 
 <!--- immagine --->
 
-** 1.** altruismo, condivisione, comunità
+**1.** altruismo, condivisione, comunità
 
 che aspetto hanno le community? sono un simbolo / creano un "mondo ideale" per gli utenti che ne fanno parte? possono essere delineate secondo dei parametri? la comunicazione è spesso prettamente testuale, è possibile renderla "visibile"?
 
