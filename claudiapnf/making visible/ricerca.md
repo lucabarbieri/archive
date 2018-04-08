@@ -18,7 +18,7 @@
 Maps are often an abstraction of the physical or conceptual world - a symbolic depiction of a space or idea that allows one to understand and navigate unfamiliar topography or complex topology. But while most conventional charts, plans and diagrams claim to offer an accurate, even objective picture of the world, each one is bound by the specific agendas of its creators and users.
 [...] cartographies can be altered endlessly to reflect different priorities, hierarchies, experiences, points of view and destinations. *Mapping it out: An Alternative Atlas of Contemporary Cartographies, Hans Ulrich Obrist, Tom McCarthy, 2014*
 
-*Atlante delle emozioni, Giuliana Bruno, 2015*
+*Atlante delle emozioni, Giuliana Bruno, 2015* <br>
 *Visual Complexity: Mapping Patterns of Information, Manuel Lima*  [+](http://www.creativeapplications.net/featured/visual-complexity-mapping-patterns-of-information-books/)
 
 
