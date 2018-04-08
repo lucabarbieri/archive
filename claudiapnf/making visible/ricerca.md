@@ -1,6 +1,7 @@
 
 ### parole chiave
 
+
 +    cartography | visual representation | symbolism
        
      +    *Mapping it out: An Alternative Atlas of Contemporary Cartographies, Hans Ulrich Obrist, Tom McCarthy, 2014*<br>
@@ -16,6 +17,7 @@
     disporlo topograficamente. Si trattava di un tipo di sapere reso accessibile grazie al legato
     dell'arte della memoria, che consentiva di trasformare il savoir topografico in arte della
     mappatura.
+    
     
 +    algorithm | words | stream of consciousness
         +    *What algorythms want [+](http://www.creativeapplications.net/reviews/what-algorithms-want-reflecting-on-human-agency-in-the-age-of-automation/)* <br>
