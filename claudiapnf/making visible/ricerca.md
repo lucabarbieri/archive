@@ -1,4 +1,4 @@
-## **ricerca making visible**
+## **making visible**
 
 ####Riflessioni
 
