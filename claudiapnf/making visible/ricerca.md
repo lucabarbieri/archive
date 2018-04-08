@@ -18,8 +18,8 @@
     mappatura.
     
 +    #algorithm, words, stream of consciousness
-        +    Finn describes how an algorithmic object of study is a system-in-motion and the most fertile spot for investigation is the gap between an algorithm’s intended functionality and its effects – that is where epistemological bias, problematic data or training, or unchecked cyberlibertarianism will reveal itself. <br>
-What algorythms want [+](http://www.creativeapplications.net/reviews/what-algorithms-want-reflecting-on-human-agency-in-the-age-of-automation/)
+        +    *What algorythms want [+](http://www.creativeapplications.net/reviews/what-algorithms-want-reflecting-on-human-agency-in-the-age-of-automation/)* <br>
+        Finn describes how an algorithmic object of study is a system-in-motion and the most fertile spot for investigation is the gap between an algorithm’s intended functionality and its effects – that is where epistemological bias, problematic data or training, or unchecked cyberlibertarianism will reveal itself. <br>
 
    +    stream of consciousness definition: a literary style in which a character's thoughts, feelings, and reactions are depicted in a continuous flow uninterrupted by objective description or conventional dialogue. James Joyce, Virginia Woolf, and Marcel Proust are among its notable early exponents.
 
