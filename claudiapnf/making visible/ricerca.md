@@ -1,6 +1,6 @@
-## *Riflessioni*
 
-*parole chiave*
+## parole chiave
+
 +    #cartography
        
      +    *Mapping it out: An Alternative Atlas of Contemporary Cartographies, Hans Ulrich Obrist, Tom McCarthy, 2014*<br>
