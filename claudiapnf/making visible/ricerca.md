@@ -1,7 +1,7 @@
 
 ### parole chiave
 
-+    #cartography, visual representation
++    #cartography | visual representation
        
      +    *Mapping it out: An Alternative Atlas of Contemporary Cartographies, Hans Ulrich Obrist, Tom McCarthy, 2014*<br>
      Maps are often an abstraction of the physical or conceptual world - a symbolic depiction of a space or idea that allows one to          understand and navigate unfamiliar topography or complex topology. But while most conventional charts, plans and diagrams claim to      offer an accurate, even objective picture of the world, each one is bound by the specific agendas of its creators and users.
@@ -17,7 +17,7 @@
     dell'arte della memoria, che consentiva di trasformare il savoir topografico in arte della
     mappatura.
     
-+    #algorithm, words, stream of consciousness
++    #algorithm | words | stream of consciousness
         +    *What algorythms want [+](http://www.creativeapplications.net/reviews/what-algorithms-want-reflecting-on-human-agency-in-the-age-of-automation/)* <br>
         Finn describes how an algorithmic object of study is a system-in-motion and the most fertile spot for investigation is the gap between an algorithm’s intended functionality and its effects – that is where epistemological bias, problematic data or training, or unchecked cyberlibertarianism will reveal itself. <br>
 
