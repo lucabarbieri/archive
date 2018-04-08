@@ -1,13 +1,13 @@
 ## **making visible**
 
-####Riflessioni
+###Riflessioni
 
 
 
 
 
 
-###parole
+*parole chiave*
 +visual representation / cartography
 +clearly see
 +algorithms
