@@ -1,6 +1,6 @@
 
 ### parole chiave
-
+<br>
 
 +    cartography | visual representation | symbolism
        
@@ -17,7 +17,7 @@
     disporlo topograficamente. Si trattava di un tipo di sapere reso accessibile grazie al legato
     dell'arte della memoria, che consentiva di trasformare il savoir topografico in arte della
     mappatura.
-    
+     <br>
     
 +    algorithm | words | stream of consciousness
         +    *What algorythms want [+](http://www.creativeapplications.net/reviews/what-algorithms-want-reflecting-on-human-agency-in-the-age-of-automation/)* <br>
