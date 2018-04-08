@@ -29,7 +29,7 @@ Finn describes how an algorithmic object of study is a system-in-motion and the 
 
 | Amygdala [+](http://www.creativeapplications.net/maxmsp/codex-anima-mundi-interview-with-fuse/)
 
-### stream of consciousness
+#### stream of consciousness
 definition: a literary style in which a character's thoughts, feelings, and reactions are depicted in a continuous flow uninterrupted by objective description or conventional dialogue. James Joyce, Virginia Woolf, and Marcel Proust are among its notable early exponents.
 
 #### words
