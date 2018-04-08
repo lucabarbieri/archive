@@ -2,11 +2,6 @@
 
 *Riflessioni*
 
-
-
-
-
-
 *parole chiave*
 +    visual representation / cartography
 +    clearly see
@@ -20,8 +15,6 @@ Maps are often an abstraction of the physical or conceptual world - a symbolic d
 
 *Atlante delle emozioni, Giuliana Bruno, 2015* <br>
 *Visual Complexity: Mapping Patterns of Information, Manuel Lima*  [+](http://www.creativeapplications.net/featured/visual-complexity-mapping-patterns-of-information-books/)
-
-
 
 #### clearly see
 | What algorythms want [+](http://www.creativeapplications.net/reviews/what-algorithms-want-reflecting-on-human-agency-in-the-age-of-automation/)
