@@ -1,6 +1,16 @@
 
 ### parole chiave
 <br>
++    silence
+
+      +    *Cambridge dictionary* <br>
+           silence definition: a period without any sound; complete quiet:
+
+           A loud crash of thunder broke the silence of the night. <br>
+           Silence reigned (= there was complete silence) in the church.
+           
+           Il silenzio é qualcosa di invisibile? Può essere percepito se non attraverso l'udito? Quali significati porta con sè? É sinonimo di assenza, mancanza, distacco o può significare pienezza, riflessione, empatia? 
+
 
 +    cartography | visual representation | language | symbolism
        
@@ -29,14 +39,3 @@
              "A Word, GOD in different languages implies the cultural complexity and the difference in our world, and the name of god is influenced by each religious contexts, racial exchanges, and invasions throughout human history. While the racial mixing all over the world at the moment, the segregation is also becoming vivid recently, and it’s needed to reconfirm the diversity of the world from a bird’s‐eye with the real data. The Internet was basically considered to represent the diversity at the beginning though, now that we tend to look at only what we like or just automatically recommended information. So I tried to fulfill the potential of the internet beyond the boundaries of the language."
 
         +    stream of consciousness definition: a literary style in which a character's thoughts, feelings, and reactions are depicted in a continuous flow uninterrupted by objective description or conventional dialogue. James Joyce, Virginia Woolf, and Marcel Proust are among its notable early exponents.
-
-
-+    silence
-
-      +    *Cambridge dictionary* <br>
-           silence definition: a period without any sound; complete quiet:
-
-           A loud crash of thunder broke the silence of the night. <br>
-           Silence reigned (= there was complete silence) in the church.
-           
-           Il silenzio é qualcosa di invisibile? Può essere percepito se non attraverso l'udito? Quali significati porta con sè? É sinonimo di assenza, mancanza, distacco o può significare pienezza, riflessione, empatia? 
