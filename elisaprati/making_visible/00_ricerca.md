@@ -28,4 +28,6 @@ RICERCA GENERALE <br>
 [+](http://www.artribune.com/television/2018/02/video-installazione-interattiva-selfie-ghiaia-varsavia/) _ 
 [+](http://www.artribune.com/progettazione/new-media/2018/04/intervista-iaconesi-persico-festival-nuove-tecnologie-roma/) _ 
 
-<!--trovare manifesti VR torino--> 
+<!--
+[alga Noctiluca scintillans](https://it.wikipedia.org/wiki/Noctiluca_scintillans)
+--> 
