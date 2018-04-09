@@ -8,7 +8,9 @@ IL CASTELLO ERRANTE DI HOWL <br>
 -->
 
 FIABE <br>
-[Le notti di Tino di Bagdad, coniglio viola](https://www.immersivetech.it/2015/10/25/la-favola-in-realta-aumentata-che-sta-incantando-torino/)
+Le notti di Tino di Bagdad, coniglio viola: 
+[+](https://www.immersivetech.it/2015/10/25/la-favola-in-realta-aumentata-che-sta-incantando-torino/) _ 
+[+](http://www.tinobagdad.com/it/)
 
 
 PROJECT NIMBUS <br>
