@@ -1,6 +1,7 @@
 
 ### parole chiave
 <br>
+
 +    silence
 
       +    *Cambridge dictionary* <br>
@@ -9,7 +10,8 @@
            A loud crash of thunder broke the silence of the night. <br>
            Silence reigned (= there was complete silence) in the church.
            
-           Il silenzio é qualcosa di invisibile? Può essere percepito se non attraverso l'udito? Quali significati porta con sè? É sinonimo di assenza, mancanza, distacco o può significare pienezza, riflessione, empatia? 
+           Il silenzio é qualcosa di invisibile? Può essere percepito se non attraverso l'udito? Quali significati porta con sè? 
+           É sinonimo di assenza, mancanza, distacco o può significare pienezza, riflessione, empatia? 
 
 
 +    cartography | visual representation | language | symbolism
