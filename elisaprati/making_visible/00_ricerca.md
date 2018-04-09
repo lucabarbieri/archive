@@ -15,26 +15,26 @@ Le notti di Tino di Bagdad, Coniglio viola:
 [+](http://www.tinobagdad.com/it/)
 
 
-*CASTELLI PER ARIA*
+*"CASTELLI PER ARIA"* <br>
 Project nimbus:
-[+](http://m.dagospia.com/project-nimbus-il-primo-strumento-per-proiettare-video-tra-le-nuvole-104358) _
+[+](http://m.dagospia.com/project-nimbus-il-primo-strumento-per-proiettare-video-tra-le-nuvole-104358) ,
 [+](http://www.smartworld.it/tecnologia/questo-cavallo-laser-e-unopera-darte-proiettata-sulle-nuvole-video.html) <br>
 
 
 RAPPRESENTARE IL *SILENZIO* / *SUONO* <br>
-[+](https://www.linkedin.com/feed/update/urn:li:activity:6362375464652206081/) _ 
+[+](https://www.linkedin.com/feed/update/urn:li:activity:6362375464652206081/) , 
 
 
 *TERRITORIO* <br>
 Pixi: 
-[+](http://www.creativeapplications.net/environment/pixi-nature-aware-self-sufficient-digital-organism-breathes-in-the-forest/) _ 
+[+](http://www.creativeapplications.net/environment/pixi-nature-aware-self-sufficient-digital-organism-breathes-in-the-forest/) , 
 [+](http://www.werccollective.com/pixi/) 
 
 
 RICERCA GENERALE <br>
-[+](http://www.artribune.com/television/2017/09/video-iginio-de-luca-sottosale-saline-puglia/) _ 
-[+](http://www.artribune.com/television/2018/02/video-installazione-interattiva-selfie-ghiaia-varsavia/) _ 
-[+](http://www.artribune.com/progettazione/new-media/2018/04/intervista-iaconesi-persico-festival-nuove-tecnologie-roma/) _ 
+[+](http://www.artribune.com/television/2017/09/video-iginio-de-luca-sottosale-saline-puglia/) <br>
+[+](http://www.artribune.com/television/2018/02/video-installazione-interattiva-selfie-ghiaia-varsavia/) <br>
+[+](http://www.artribune.com/progettazione/new-media/2018/04/intervista-iaconesi-persico-festival-nuove-tecnologie-roma/) <br>
 
 <!--
 [alga Noctiluca scintillans](https://it.wikipedia.org/wiki/Noctiluca_scintillans)
