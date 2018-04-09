@@ -9,24 +9,27 @@ Il Castello ha una duplice valenza sia nelle fiabe che in tutti gli altri tipi d
 IL CASTELLO ERRANTE DI HOWL <br> 
 -->
 
-FIABE <br>
+*FIABE* <br>
 Le notti di Tino di Bagdad, Coniglio viola: 
 [+](https://www.immersivetech.it/2015/10/25/la-favola-in-realta-aumentata-che-sta-incantando-torino/) _ 
 [+](http://www.tinobagdad.com/it/)
 
 
-PROJECT NIMBUS <br>
+*CASTELLI PER ARIA*
+Project nimbus:
 [+](http://m.dagospia.com/project-nimbus-il-primo-strumento-per-proiettare-video-tra-le-nuvole-104358) _
 [+](http://www.smartworld.it/tecnologia/questo-cavallo-laser-e-unopera-darte-proiettata-sulle-nuvole-video.html) <br>
 
 
-RAPPRESENTARE IL SILENZIO / SUONO <br>
+RAPPRESENTARE IL *SILENZIO* / *SUONO* <br>
 [+](https://www.linkedin.com/feed/update/urn:li:activity:6362375464652206081/) _ 
 
-TERRITORIO <br>
+
+*TERRITORIO* <br>
 Pixi: 
 [+](http://www.creativeapplications.net/environment/pixi-nature-aware-self-sufficient-digital-organism-breathes-in-the-forest/) _ 
 [+](http://www.werccollective.com/pixi/) 
+
 
 RICERCA GENERALE <br>
 [+](http://www.artribune.com/television/2017/09/video-iginio-de-luca-sottosale-saline-puglia/) _ 
