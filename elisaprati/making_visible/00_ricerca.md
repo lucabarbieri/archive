@@ -1,7 +1,7 @@
 IL CASTELLO <br>
-Il Castello ha una duplice valenza sia nelle fiabe che in tutti gli altri tipi di racconto: da un lato rappresentano la forma di salvezza dal mondo esterno, dall'altro lato testimoniano l'isolamento di chi ci vive ed un forte senso di solitudine!
+<!-- Il Castello ha una duplice valenza sia nelle fiabe che in tutti gli altri tipi di racconto: da un lato rappresentano la forma di salvezza dal mondo esterno, dall'altro lato testimoniano l'isolamento di chi ci vive ed un forte senso di solitudine! -->
 
-IL CASTELLO ERRANTE DI HOWL <br>
+<!-- IL CASTELLO ERRANTE DI HOWL <br> -->
 
 PROJECT NIMBUS <br>
 [+](http://m.dagospia.com/project-nimbus-il-primo-strumento-per-proiettare-video-tra-le-nuvole-104358) _
@@ -13,7 +13,9 @@ RAPPRESENTARE IL SILENZIO / SUONO <br>
 
 
 
-
-ISPIRAZIONE GENERALE <br>
+RICERCA GENERALE <br>
 [+](http://www.artribune.com/television/2017/09/video-iginio-de-luca-sottosale-saline-puglia/) _ 
-[+](http://www.artribune.com/television/2018/02/video-installazione-interattiva-selfie-ghiaia-varsavia/)
+[+](http://www.artribune.com/television/2018/02/video-installazione-interattiva-selfie-ghiaia-varsavia/) _ 
+[+](http://www.artribune.com/progettazione/new-media/2018/04/intervista-iaconesi-persico-festival-nuove-tecnologie-roma/) _ 
+
+<!--trovare manifesti VR torino--> 
