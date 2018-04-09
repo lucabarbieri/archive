@@ -17,10 +17,10 @@ ovvero ogni passo dell'uomo è un frammento di storia che si aggiunge alla conos
 Il passo dell'uomo, l'atto di imprimera la terra è intimo e simbolo della scoperta di un territorio (es. vedi allunaggio 1969) 
 e precede la conquista.
 
-**1** Scansioni spazio-temporali dei luoghi
+**1** Scansioni spazio-temporali dei luoghi   
 I luoghi fisici sono descritti da due diversi dinamismi. Uno è legato alla struttura del luogo, come le fondamenta, i muri,
 gli arredi, e il cigolio della porta, ma anche il muschio nelle pareti di una casa abbandonata. Un altro è legato persone
-che frequentano quel luogo. Il luogo quindi si porta con sè diverse memorie. Posso rievocare una specifica memoria di 
+che frequentano quel luogo. Il luogo quindi si porta con sé diverse memorie. Posso rievocare una specifica memoria di 
 un luogo andando rendere visibile la struttura del luogo e rivivere le sensazioni di quel determinato luogo? 
 Posso immortalare un luogo mediante soluzioni diverse da una fotografia? 
 
