@@ -33,4 +33,7 @@
 
 +    silence
 
-Il silenzio 
+      +    silence definition: a period without any sound; complete quiet:
+
+A loud crash of thunder broke the silence of the night.
+Silence reigned (= there was complete silence) in the church.
