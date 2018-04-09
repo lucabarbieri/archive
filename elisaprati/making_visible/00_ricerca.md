@@ -33,8 +33,11 @@ Pixi:
 
 RICERCA GENERALE <br>
 [+](http://www.artribune.com/television/2017/09/video-iginio-de-luca-sottosale-saline-puglia/) <br>
-[+](http://www.artribune.com/television/2018/02/video-installazione-interattiva-selfie-ghiaia-varsavia/) <br>
+[selfie ghiaia](http://www.artribune.com/television/2018/02/video-installazione-interattiva-selfie-ghiaia-varsavia/) <br>
 [+](http://www.artribune.com/progettazione/new-media/2018/04/intervista-iaconesi-persico-festival-nuove-tecnologie-roma/) <br>
+[Amygdala, Fuse](http://www.creativeapplications.net/maxmsp/codex-anima-mundi-interview-with-fuse/) <br>
+
+
 
 <!--
 [alga Noctiluca scintillans](https://it.wikipedia.org/wiki/Noctiluca_scintillans)
