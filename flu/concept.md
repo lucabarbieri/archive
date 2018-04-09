@@ -4,7 +4,9 @@ Numero di morti per influenza in età pediatrica negli Stati Uniti.
 by @lucabarbieri © 2018 MIT License  
 DSII2018 Lab @UNIRSM [website](http://dsii-2018-unirsm.github.io)
 
-L’obiettivo della ricerca era capire se ci sono discrepanze fra i numeri presentati dai media e i reali decessi per l’influenza. 
+In inglese il termine influenza si riferisce ad un comune malattia virale, invece in italiano indica anche l'atto di condizionare qualcuno;. Sebbene l'influenza sia una malattia che si trasmette comunemente, al contrario, non è altrettanto facile guarirne: ogni anno tra i 3 e i 5 milioni di persone contraggono questa malattia in maniera grave, e tra le 250.000 e le 500.000 persone ne muoiono. Se l'influenza si diffonde attraverso il contatto e l'interazione sociale, allora il suo antidoto - come un vaccino - può trovarsi nella capacità di ogni individuo di compiere scelte che condizionano altri individui, che in senso positivo è il potere della civiltà che dal basso, può innescare il cambiamento. 
+Riflettendo il modo di trasmissione virale dell'influenza, il progetto vuole evidenziare le discrepanze fra i numeri presentati dai media e i reali decessi per l’influenza.
+
 Per la ricerca dei dati mi sono bastato su FluNet. 
 FluNet è uno strumento web globale per la sorveglianza virologica dell'influenza, lanciato per la prima volta nel 1997. I dati virologici inseriti in FluNet, ad es. il numero di virus influenzali rilevati dal sottotipo, è fondamentale per tracciare il movimento dei virus a livello globale e interpretare i dati epidemiologici. I dati sono distinti per paese e sono disponibili pubblicamente mediante aggiornamenti settimanali.
 
