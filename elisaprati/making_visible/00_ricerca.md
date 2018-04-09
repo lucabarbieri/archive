@@ -21,6 +21,8 @@ PROJECT NIMBUS <br>
 RAPPRESENTARE IL SILENZIO / SUONO <br>
 [+](https://www.linkedin.com/feed/update/urn:li:activity:6362375464652206081/) _ 
 
+TERRITORIO <br>
+[+](http://www.creativeapplications.net/environment/pixi-nature-aware-self-sufficient-digital-organism-breathes-in-the-forest/) _ 
 
 
 RICERCA GENERALE <br>
