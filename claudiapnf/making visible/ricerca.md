@@ -11,7 +11,8 @@
            Silence reigned (= there was complete silence) in the church.
            
            Il silenzio é qualcosa di invisibile? Può essere percepito se non attraverso l'udito? Quali significati porta con sè? <br>
-           É sinonimo di assenza, mancanza, distacco o può significare pienezza, riflessione, empatia? 
+           É sinonimo di assenza, mancanza, distacco o può significare presenza, riflessione, empatia? 
+           
 
 
 +    cartography | visual representation | language | symbolism
