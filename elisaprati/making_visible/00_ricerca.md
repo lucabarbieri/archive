@@ -44,8 +44,32 @@ RICERCA GENERALE <br>
 --> 
 
 
+__________________________________________________________________________________________________________________________________________
+**REVISIONE 10.4.18**
 
+Weird Type:
+[+](https://itunes.apple.com/us/app/weird-type/id1352785248?mt=8),
+[+](https://mashable.com/2018/04/02/weird-type-app/#wztTVYfuqsqx) <br>
+
+Zach Liebeman:
+[+](http://thesystemis.com/projects/),
+[+](http://www.eyewriter.org/),
+[+](https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/6323/Eye-Writer-Glasses-Allow-Paralyzed-Graffiti-Artist-to-Draw-Again.aspx),
+
+libreria processing GML4U:
+[+](http://www.graffitimarkuplanguage.com/gml4u/), 
+[+](https://github.com/01010101/GML4U) <br>
+
+altre parole di ricerca:
+cartografia <br>
+esplorazione <br>
 __________________________________________________________________________________________________________________________________________
 **PRIME IDEE**
-<!-- - cartolina-texture -->
+- cartolina-texture della città
+- storia del luoghi
+- usare dati tripadvisor
+- rendere visibile l'interno del teatro 
+    - AR 
+    - visualizzare dati relativi a ciò che accade es vibrazione palco, rumorio pubblico...
+    - stampa fisica
 
