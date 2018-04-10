@@ -8,7 +8,7 @@ strumenti dimostrativi -> strumenti riflessivi - mancanza di personalità - solo
 
 **Filtro**
 
-nascondere per mostrare - filtro online - selezione - Darwin - GENETIC PROGRMMING - mitocondri
+nascondere per mostrare - filtro online - selezione - Darwin - GENETIC PROGRAMMING - mitocondri
 
 **Opposto**
 
@@ -50,7 +50,7 @@ MACHINE GENERATION
 **Neural Evolution – Building a natural selection process with AI**
 [+](http://www.creativeapplications.net/news/neural-evolution-building-a-natural-selection-process-with-ai/)
 [+](https://vimeo.com/176736676)
-###### #life
+###### #life 
 
 
 **Computed Curation – Curating photography with neural networks - by Philipp Schmitt**
@@ -59,13 +59,13 @@ MACHINE GENERATION
 [+](https://vimeo.com/225081193)
 
 *In Computed Curation, these flaws surface in often bizarre and sometimes poetic captions, tags and connections. Moreover, by urging the viewer to constantly speculate on the logic behind its arrangement, the book teaches how to see the world through the eyes of an algorithm.*
-###### #selezione
+###### #selezione #curatela
 
 **Arena - un'animazione astratta realizzata con immagini via satellite - by Paraic Mc Gloughlin**
 [+](https://www.frizzifrizzi.it/2018/03/23/arena-unanimazione-astratta-realizzata-con-le-immagini-via-satellite/)
 [+](https://vimeo.com/259989412)
 [+](https://paraicmcgloughlin.com/)
-###### #selezione
+###### #selezione #curatela
 
 --------------------
 
@@ -107,3 +107,31 @@ PHYSICAL VISUALIZATION/TRASPOSITION
 [+](https://vimeo.com/142776337)
 [+](https://vimeo.com/110137909)
 ###### #fisicachemuovelecose #nasconderemostrare #tangibile
+
+--------------------
+
+RIFERIMENTI EXTRA IN CLASSE
+
+--------------------
+
+**Archillect
+[+](https://twitter.com/archillect)
+[+](http://archillect.com/)
+
+###### #filtro #curatela
+
+**The Nature of Code - by Daniel Shiffman
+[+](http://natureofcode.com/)
+[+](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
+
+###### #fisicachemuovelecose #life #mitocondri
+
+**Terrapattern - by Golan Levine
+[+](http://www.terrapattern.com/)
+[+](http://www.flong.com/projects/terrapattern/)
+
+###### #filtro #nasconderemostrare
+
+
+
+
