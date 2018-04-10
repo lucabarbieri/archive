@@ -114,19 +114,19 @@ RIFERIMENTI EXTRA IN CLASSE
 
 --------------------
 
-**Archillect
+**Archillect**
 [+](https://twitter.com/archillect)
 [+](http://archillect.com/)
 
 ###### #filtro #curatela
 
-**The Nature of Code - by Daniel Shiffman
+**The Nature of Code - by Daniel Shiffman**
 [+](http://natureofcode.com/)
 [+](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
 
 ###### #fisicachemuovelecose #life #mitocondri
 
-**Terrapattern - by Golan Levine
+**Terrapattern - by Golan Levine**
 [+](http://www.terrapattern.com/)
 [+](http://www.flong.com/projects/terrapattern/)
 
