@@ -30,7 +30,7 @@
     disporlo topograficamente. Si trattava di un tipo di sapere reso accessibile grazie al legato
     dell'arte della memoria, che consentiva di trasformare il savoir topografico in arte della
     mappatura.
-     <br>
+     
     
 +    algorithm | words | stream of consciousness
 
