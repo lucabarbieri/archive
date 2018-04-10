@@ -38,11 +38,9 @@ RICERCA GENERALE <br>
 [Amygdala, Fuse](http://www.creativeapplications.net/maxmsp/codex-anima-mundi-interview-with-fuse/) <br>
 
 
-
 <!--
 [alga Noctiluca scintillans](https://it.wikipedia.org/wiki/Noctiluca_scintillans)
 --> 
-
 
 __________________________________________________________________________________________________________________________________________
 **REVISIONE 10.4.18**
@@ -63,6 +61,7 @@ libreria processing GML4U:
 altre parole di ricerca:
 cartografia <br>
 esplorazione <br>
+linguaggio C++
 __________________________________________________________________________________________________________________________________________
 **PRIME IDEE**
 - cartolina-texture della città
