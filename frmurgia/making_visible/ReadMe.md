@@ -33,6 +33,6 @@ Created by Fito Segrera, Conversations On Chaos is a project that explores the i
 
 Moving objects | nº 804 is a installation by Pe Lang, exploring the contrasts of order and chaos. In 804 cords are spun and pulled apart as the machine pans from left to right slowly revealing order on one side and chaos on the other.
 
-### Prototipo / output
+## Prototipo / output
 intensità del buio regola il silenzio
 
