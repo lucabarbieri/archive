@@ -17,12 +17,14 @@ In Nigredo, Donnarumma, si pone la domanda: “Come la deprivazione percettiva p
 
 (Giuseppe O. Longo, Homo tecnologiucus, 2005)
 
+<br>
+
 **Francesco Fabris – Stellar**  [+](http://interactivedesign.it/blog/visual-programming/max-msp/2016/02/12/francesco-fabris-stellar-interactive-installation/)
 
 
 Stellar è un’installazione interattiva realizzata dal new media artist Francesco Fabris. Il progetto mira a creare una rappresentazione sonora delle costellazioni attraverso un’interfaccia interattiva.
 
-</br>
+<br>
 
 **Conversations On Chaos - Fito Segrera** [+](http://www.creativeapplications.net/linux/conversations-on-chaos-by-fito-segrera/)
 
