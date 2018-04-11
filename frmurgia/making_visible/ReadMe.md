@@ -4,9 +4,14 @@
 
 
 ## Concept
+Come rappresentare il nulla o il vuoto? <br>
+Nella teoria degli insiemi l'insieme vuoto è un particolare insieme che non contiene nessun elemento.
+Esiste, o è necessario? Il vuoto o l'assenza è percepito nel momento in cui ci manca qualcosa?
 
 
+Gruppo sanguigno tipo 0+
 
+Chi possiede il gruppo sanguigno di tipo 0 positivo è ritenuto il donatore perfetto.
 
 ## Referenze
 **Marco Donnarumma - Nigeredo** [+](http://marcodonnarumma.com/works/nigredo/) [+](http://www.ilmuromagazine.com/il-risveglio-del-corpo-assente-marco-donnarumma-2/) [+](http://www.annamonteverdi.it/digital/nigredo-by-marco-donnarumma/)
