@@ -27,7 +27,7 @@ Stellar è un’installazione interattiva realizzata dal new media artist France
 
 Created by Fito Segrera, Conversations On Chaos is a project that explores the idea of order as an emergence from chaos.  It uses chaos theory and elements from dynamic system studies and experimentation in order to create a system where two machines hold a dynamic conversation about chaos.
 
-
+<br>
 **Moving objects | nº 804 - Pe Lang** [+](http://www.creativeapplications.net/objects/moving-objects-no-804-by-pe-lang/)
 
 
