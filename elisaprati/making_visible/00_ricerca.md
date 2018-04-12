@@ -58,7 +58,7 @@ libreria processing GML4U:
 [+](http://www.graffitimarkuplanguage.com/gml4u/), 
 [+](https://github.com/01010101/GML4U) <br>
 
-altre parole di ricerca: <br>
+Altre parole di ricerca: <br>
 cartografia <br>
 esplorazione <br>
 linguaggio C++
