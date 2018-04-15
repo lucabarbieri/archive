@@ -76,7 +76,7 @@ ________________________________________________________________________________
     - visualizzare dati relativi a ciò che accade es vibrazione palco, rumorio pubblico...
     - stampa fisica
 __________________________________________________________________________________________________________________________________________
-**AVANZAMENTO RICERCA**
+**AVANZAMENTO RICERCA** <br>
 [+](http://architizer.com/blog/sketchup-viewer/) <br>
 [+](https://www.facebook.com/thisisinsiderart/videos/1656769127963812/?hc_ref=ARQJ0IG4TzzqrDj8PquSViAKbg66ujmILv4e07fN-2orwppKyXRN-rPiobzx9rE2bdY) <br>
-[+](https://www.behance.net/gallery/4419469/WHAT-MADE-ME-Interactive-Public-Installation) --> Insight: a fine concerto o durante 
+[+](https://www.behance.net/gallery/4419469/WHAT-MADE-ME-Interactive-Public-Installation) --> Insight: a fine spettacolo o durante 
