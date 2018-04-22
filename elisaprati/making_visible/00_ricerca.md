@@ -63,7 +63,7 @@ libreria processing GML4U:
 [+](https://github.com/01010101/GML4U) <br>
 
 Altre parole di ricerca: <br>
-* cartografia: Scienza e tecnica relativa allo studio e alla realizzazione delle carte geografiche e topografiche
+cartografia (*) : Scienza e tecnica relativa allo studio e alla realizzazione delle carte geografiche e topografiche
 <br>
 esplorazione 
 <br>
@@ -87,8 +87,13 @@ ________________________________________________________________________________
 [+](https://www.behance.net/gallery/4419469/WHAT-MADE-ME-Interactive-Public-Installation) --> Insight: stabilire dei parametri standard che descrivano un'opera teatrale e attraverso un filo (?) gli utenti lasciano la loro valutazione, dando rilievo alle emozioni che hanno provato (a fine spettacolo) --> potrebbe valere anche per i ristoranti: è una visualizzazione dei dati, in base ai colori utilizzati, e ai tipi di collegamenti che si creano si da vita a una sorta di "cartolina dinamica" di ogni ristorante (non scelgo più in base ai giudizi lasciati, o comunque non solo, ma anche in base a queste cartoline, in base ai colori che si sono scelti, al pattern che n'è venuto fuori) <br> 
 [+](https://www.youtube.com/watch?v=vGF1KlaGa1E)
 <br> 
+<br> 
 
-* Cartografia: <br> 
+(*) Cartografia: <br> 
 [+](http://www.creativeapplications.net/environment/speculative-cartography-programmed-landscapes-a-chat-with-benedikt-gros/) <br> 
 [+](http://www.creativeapplications.net/theory/mediated-cityscapes-03-diy-cartography-theory/)
+
+
+Data Visualization: <br> 
+
  
