@@ -89,11 +89,11 @@ ________________________________________________________________________________
 <br> 
 <br> 
 
-(*) Cartografia: <br> 
-[+](http://www.creativeapplications.net/environment/speculative-cartography-programmed-landscapes-a-chat-with-benedikt-gros/) <br> 
-[+](http://www.creativeapplications.net/theory/mediated-cityscapes-03-diy-cartography-theory/)
+(*) Cartografia: 
+[+](http://www.creativeapplications.net/environment/speculative-cartography-programmed-landscapes-a-chat-with-benedikt-gros/),
+[+](http://www.creativeapplications.net/theory/mediated-cityscapes-03-diy-cartography-theory/), 
 [+](http://www.creativeapplications.net/environment/speculative-cartography-programmed-landscapes-a-chat-with-benedikt-gros/) <br> 
 
 Data Visualization: <br> 
-[+](http://www.creativeapplications.net/theory/meibach-and-posavec-data-visualization-poetry-and-sculpture/) <br> 
+[+](http://www.creativeapplications.net/theory/meibach-and-posavec-data-visualization-poetry-and-sculpture/),
 [+](http://www.creativeapplications.net/processing/fragmented-memory-extracts-from-computers-physical-memory-to-produce-textiles/) <br> 
