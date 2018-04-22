@@ -64,7 +64,7 @@ libreria processing GML4U:
 
 [openFrameworks](http://openframeworks.cc/) <br>
 
-[school for poetic computation] (http://sfpc.io/) <br>
+[school for poetic computation](http://sfpc.io/) <br>
 
 
 Altre parole di ricerca: <br>
@@ -73,6 +73,9 @@ cartografia (*) : Scienza e tecnica relativa allo studio e alla realizzazione de
 esplorazione 
 <br>
 linguaggio C++
+<br>
+dati Tripadvisor
+<br>
 __________________________________________________________________________________________________________________________________________
 **PRIME IDEE**
 - cartolina-texture della città
