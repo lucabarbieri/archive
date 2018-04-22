@@ -100,7 +100,9 @@ ________________________________________________________________________________
 (*) Cartografia: 
 [+](http://www.creativeapplications.net/environment/speculative-cartography-programmed-landscapes-a-chat-with-benedikt-gros/),
 [+](http://www.creativeapplications.net/theory/mediated-cityscapes-03-diy-cartography-theory/), 
-[+](http://www.creativeapplications.net/environment/speculative-cartography-programmed-landscapes-a-chat-with-benedikt-gros/) <br> 
+[+](http://www.creativeapplications.net/environment/speculative-cartography-programmed-landscapes-a-chat-with-benedikt-gros/), 
+[+](http://www.creativeapplications.net/processing/radius-music-processing/), 
+[+](http://www.creativeapplications.net/sound/sonification-and-the-re-performance-of-data-an-interview-with-brian-house/) <br> 
 
 Data Visualization: <br> 
 [+](http://www.creativeapplications.net/theory/meibach-and-posavec-data-visualization-poetry-and-sculpture/),
