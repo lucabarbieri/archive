@@ -62,6 +62,11 @@ libreria processing GML4U:
 [+](http://www.graffitimarkuplanguage.com/gml4u/), 
 [+](https://github.com/01010101/GML4U) <br>
 
+[openFrameworks](http://openframeworks.cc/) <br>
+
+[school for poetic computation] (http://sfpc.io/) <br>
+
+
 Altre parole di ricerca: <br>
 cartografia (*) : Scienza e tecnica relativa allo studio e alla realizzazione delle carte geografiche e topografiche
 <br>
