@@ -133,6 +133,62 @@ RIFERIMENTI EXTRA IN CLASSE
 
 ###### #filtro #nasconderemostrare
 
+--------------------
 
+NEW REFERENCE
+
+--------------------
+
+**Ishin-Den-Shin - by Disney Research and Olivier Bau**
+[+](http://www.olivierbau.com/ishindenshin.php)
+[+](https://www.youtube.com/watch?v=Iw1FhmY1sIU)
+
+###### #fisicachemuovelecose #life #tangibile
+
+**Seaquence - by Okaynokay**
+[+](http://www.creativeapplications.net/cinder/seaquence-growin-groove-in-a-petri-dish/)
+
+###### #life
+
+**Smartify**
+[+](https://smartify.org/)
+[+](http://www.alphr.com/artificial-intelligence/1005459/smartify-wants-to-build-an-ai-art-curator)
+
+###### #curatela #mostrarenascondere #filtro
+
+**VSCO**
+[+](https://www.psfk.com/2017/06/ai-responds-photography-human-curator.html)
+
+###### #curatela #filtro
+
+**Neil**
+[+](https://chatbotslife.com/introducing-neil-the-personal-curator-ai-3e88711b759)
+
+###### #curatela #chatbot
+
+**Anthropocene - by David Thomas**
+[+](https://www.designboom.com/art/anthropocene-google-maps-reinterpreted-as-persian-rugs/)
+
+###### #mostrarenascondere #filtro
+
+**Modern Map Art Prints - by David Hoe**
+[+](http://www.creativeapplications.net/js/modern-map-art-deconstructing-filling-and-restitching-maps/)
+
+###### #filtro #nasconderemostrare #selezione
+
+**Unique Labels - by Nutella and Ogilvy & Mather**
+[+](https://www.psfk.com/2017/06/an-algorithm-designed-millions-of-unique-labels-for-nutella-jars.html)
+
+###### #curatela #selezione
+
+**Emma - by Artfinder**
+[+](https://www.artfinder.com/press/press-release/emma/download/)
+
+###### #curatela #selezione #AI
+
+**Floral Automaton - by Thomas Grogan**
+[+](http://www.creativeapplications.net/arduino-2/floral-automaton-digital-growth-with-physical-adaptation/)
+
+###### #nasconderemostrare #fisicachemuovelecose #life #tangibile
 
 
