@@ -8,7 +8,7 @@ strumenti dimostrativi -> strumenti riflessivi - mancanza di personalità - solo
 
 **Filtro**
 
-nascondere per mostrare - filtro online - selezione - Darwin - GENETIC PROGRMMING - mitocondri
+nascondere per mostrare - filtro online - selezione - Darwin - GENETIC PROGRAMMING - mitocondri
 
 **Opposto**
 
@@ -50,7 +50,7 @@ MACHINE GENERATION
 **Neural Evolution – Building a natural selection process with AI**
 [+](http://www.creativeapplications.net/news/neural-evolution-building-a-natural-selection-process-with-ai/)
 [+](https://vimeo.com/176736676)
-###### #life
+###### #life 
 
 
 **Computed Curation – Curating photography with neural networks - by Philipp Schmitt**
@@ -59,13 +59,13 @@ MACHINE GENERATION
 [+](https://vimeo.com/225081193)
 
 *In Computed Curation, these flaws surface in often bizarre and sometimes poetic captions, tags and connections. Moreover, by urging the viewer to constantly speculate on the logic behind its arrangement, the book teaches how to see the world through the eyes of an algorithm.*
-###### #selezione
+###### #selezione #curatela
 
 **Arena - un'animazione astratta realizzata con immagini via satellite - by Paraic Mc Gloughlin**
 [+](https://www.frizzifrizzi.it/2018/03/23/arena-unanimazione-astratta-realizzata-con-le-immagini-via-satellite/)
 [+](https://vimeo.com/259989412)
 [+](https://paraicmcgloughlin.com/)
-###### #selezione
+###### #selezione #curatela
 
 --------------------
 
@@ -107,3 +107,88 @@ PHYSICAL VISUALIZATION/TRASPOSITION
 [+](https://vimeo.com/142776337)
 [+](https://vimeo.com/110137909)
 ###### #fisicachemuovelecose #nasconderemostrare #tangibile
+
+--------------------
+
+RIFERIMENTI EXTRA IN CLASSE
+
+--------------------
+
+**Archillect**
+[+](https://twitter.com/archillect)
+[+](http://archillect.com/)
+
+###### #filtro #curatela
+
+**The Nature of Code - by Daniel Shiffman**
+[+](http://natureofcode.com/)
+[+](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
+
+###### #fisicachemuovelecose #life #mitocondri
+
+**Terrapattern - by Golan Levine**
+[+](http://www.terrapattern.com/)
+[+](http://www.flong.com/projects/terrapattern/)
+[+](https://vimeo.com/220039493)
+
+###### #filtro #nasconderemostrare
+
+--------------------
+
+NEW REFERENCE
+
+--------------------
+
+**Ishin-Den-Shin - by Disney Research and Olivier Bau**
+[+](http://www.olivierbau.com/ishindenshin.php)
+[+](https://www.youtube.com/watch?v=Iw1FhmY1sIU)
+
+###### #fisicachemuovelecose #life #tangibile
+
+**Seaquence - by Okaynokay**
+[+](http://www.creativeapplications.net/cinder/seaquence-growin-groove-in-a-petri-dish/)
+
+###### #life
+
+**Smartify**
+[+](https://smartify.org/)
+[+](http://www.alphr.com/artificial-intelligence/1005459/smartify-wants-to-build-an-ai-art-curator)
+
+###### #curatela #mostrarenascondere #filtro
+
+**VSCO**
+[+](https://www.psfk.com/2017/06/ai-responds-photography-human-curator.html)
+
+###### #curatela #filtro
+
+**Neil**
+[+](https://chatbotslife.com/introducing-neil-the-personal-curator-ai-3e88711b759)
+
+###### #curatela #chatbot
+
+**Anthropocene - by David Thomas**
+[+](https://www.designboom.com/art/anthropocene-google-maps-reinterpreted-as-persian-rugs/)
+
+###### #mostrarenascondere #filtro
+
+**Modern Map Art Prints - by David Hoe**
+[+](http://www.creativeapplications.net/js/modern-map-art-deconstructing-filling-and-restitching-maps/)
+
+###### #filtro #nasconderemostrare #selezione
+
+**Unique Labels - by Nutella and Ogilvy & Mather**
+[+](https://www.psfk.com/2017/06/an-algorithm-designed-millions-of-unique-labels-for-nutella-jars.html)
+
+###### #curatela #selezione
+
+**Emma - by Artfinder**
+[+](https://www.artfinder.com/press/press-release/emma/download/)
+
+###### #curatela #selezione #AI
+
+**Floral Automaton - by Thomas Grogan**
+[+](http://www.creativeapplications.net/arduino-2/floral-automaton-digital-growth-with-physical-adaptation/)
+
+###### #nasconderemostrare #fisicachemuovelecose #life #tangibile
+
+
