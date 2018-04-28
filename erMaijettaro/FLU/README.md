@@ -8,12 +8,16 @@ Il grafico si basa sui dati certificati dal [*Ministero della Salute italiano*](
 
 ![Imgur](https://imgur.com/5EsfREH.png)
 > dati presi da Google Sheet
+>
 
 ![Imgur](https://imgur.com/doVFpMr.png)
 > com'è
+>
 
 ![Imgur](https://imgur.com/H5AXRMA.png)
 > come sarà
+>
 
 ![Imgur](https://imgur.com/7WNW4m1.png)
 > come sarà
+>
