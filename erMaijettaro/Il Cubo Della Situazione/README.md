@@ -5,7 +5,7 @@
 
 
 ## REFERENZE
-### Garden of Eden - Thorsten Kiesl, Harald Moser, and Timm-Oliver Wilks (2007)
+#### Garden of Eden - Thorsten Kiesl, Harald Moser, and Timm-Oliver Wilks (2007)
 >
 
 ![Imgur](https://imgur.com/klqOLAD.png)
