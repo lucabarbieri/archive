@@ -51,6 +51,6 @@ Monument è un'installazione in continua evoluzione. L'esperienza e il conseguen
 
 ![Imgur](https://imgur.com/dFOdIWy.jpg)
 
-![Imgur](https://imgur.com/qDmSgXX.jpg)
+![Imgur](https://imgur.com/Gdlkslx.jpg)
 
 ![Imgur](https://imgur.com/5QQcJuS.jpg)
