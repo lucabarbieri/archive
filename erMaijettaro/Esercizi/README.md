@@ -17,7 +17,7 @@ Il Dizionario del no sense è un generatore di neologismi con relative spiegazio
 **by @erMaijettero © 2017 MIT License**  
 **DSII2018 Lab @UNIRSM** [**+**](http://dsii-2018-unirsm.github.io)
 
-Il Random pattern è un generatore di rettangoli, la quale sovrapposizione genera un pattern randomico.
+Il Random pattern è un generatore di rettangoli la quale sovrapposizione genera un pattern randomico.
 
 
 ![Imgur](https://imgur.com/bz8i4Og.png)
