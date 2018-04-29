@@ -1,6 +1,6 @@
 # Immaterials: light painting WiFi #  
 **anno — 2012**  
-**design — Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen**
+**design — Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen**   
 **place — Oslo**       
 
 ![Immaterials: light painting WiFi](https://i.imgur.com/3TnZPdm.png)
