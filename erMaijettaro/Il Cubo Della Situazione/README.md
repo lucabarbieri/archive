@@ -19,8 +19,7 @@
 ![Imgur](https://imgur.com/UuHG6N1.jpg)
 
 
-#### Participatory Representation of Happiness - (2015)
+#### Participatory Representation of Happiness - Stefan Sagmeister (2015)
 >Questa fisizzazione del 2015 faceva parte della [*mostra sulla felicità*](https://sagmeisterwalsh.com/work/all/the-happy-show/) del designer Stefan Sagmeister . Contiene una rappresentazione partecipativa della felicità del telespettatore, che richiama il [**sondaggio MOMA**](http://dataphys.org/list/moma-poll-haackes-participatory-bar-chart/) di  Hans Haacke  (1970) e  il [**grafico partecipativo**](http://dataphys.org/list/physical-bar-charts/) di Lucy Kimball  (2006). Le unità che costituiscono la rappresentazione sono gumballs, come  la [*rappresentazione partecipativa*](http://dataphys.org/list/physical-visual-sedimentation/) di Jennifer Payne  (2014). A differenza degli esempi citati in Participatory Representation of Happiness le gummball vengono lasciate all'utente come regalo (e non viene chiesto loro di spostarle da un'altra parte) e l'indicatore fisico ad istogramma funziona con i vuoti in quanto il progetto è pensato per sottrazione delle gummball.
 
-![Imgur](https://imgur.com/Gnkuuvn.jpg)
 ![Imgur](https://imgur.com/VIYKCmJ.jpg)
