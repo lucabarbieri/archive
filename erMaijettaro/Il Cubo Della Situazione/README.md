@@ -10,3 +10,10 @@
 
 ![Imgur](https://imgur.com/klqOLAD.png)
 ![Imgur](https://imgur.com/vcyNAR7.png)
+
+
+#### Dynamic Physical Charts to Communicate Community Data - David Sweeney (2014)
+>David Sweeney di Microsoft Research ha progettato Dynamic Physical Charts, dei diagrammi fisici guidati meccanicamente per comunicare i dati alle persone che vivono o lavorano a Tenison Road a Cambridge, nel Regno Unito. Le classifiche fanno parte di un progetto di ricerca  per esplorare la comprensione dei dati da parte del pubblico e come può essere utilizzato per migliorare la vita a livello stradale: un migliore accesso ai servizi, il miglioramento delle relazioni sociali, un migliore coinvolgimento con la governance locale, eccetera.
+
+![Imgur](https://imgur.com/4YV4mHd.jpg)
+![Imgur](https://imgur.com/UuHG6N1.jpg)
