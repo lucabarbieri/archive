@@ -18,4 +18,4 @@ L’impronta che l’uomo lascia sulla terra spesso è un qualcosa che è di dif
 Il lavoro denuncia anche l’importanza delle reti, intese come infrastrutture che caratterizzano le zone urbane.
 
 ### what if — ###
-Esprimendosi in una dimensione relativa all'inquinamento ambientale si potrebbe tradurre questo progetto in sensori "leggeri" da applicare nel corpo che in tempo reale dimostrino il livello di inquinamento. Questo potrebbe permetterci di spostarci o di tenere traccia di quanto tempo passiamo in una zona con alte densificazione di inquinamento. 
+Esprimendosi in una dimensione relativa all'inquinamento ambientale si potrebbe tradurre questo progetto in sensori "leggeri" da applicare nel corpo che in tempo reale mostrino il livello di inquinamento. Questo potrebbe permetterci di spostarci o di tenere traccia di quanto tempo passiamo in una zona con alte densificazione di inquinamento. 
