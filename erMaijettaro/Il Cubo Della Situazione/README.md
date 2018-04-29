@@ -27,7 +27,7 @@
 
 
 ### DATI
->I dati vengono prelevati con uno scrapper messo a disposizione su Github. Nell'idea originale del progetto viene scrappato l'andamento delle prescelte parole chiave da Google Trend, ma la flessibilità del progetto, oltre a rendere facile l'aggiornamento delle parole chiave messe a confronto, permette di poter scegliere fra 4 piattaforme diverse dove fare scraping:  
+>I dati vengono prelevati con uno scrapper messo a disposizione su Github. Nell'idea originale del progetto viene scrappato l'andamento delle prescelte parole chiave da Google Trend, ma la flessibilità del progetto, oltre a rendere facile l'aggiornamento delle parole chiave da confrontare, permette di poter scegliere fra 4 piattaforme diverse dove fare scraping:  
 [**Google Trends**](https://github.com/clintonboys/trendy-scraper)  
 [**Instagram**](https://github.com/rarcega/instagram-scraper)  
 [**Google News**](https://github.com/jm-contreras/google-news)  
@@ -43,8 +43,24 @@
 ### VISUALIZZAZIONE
 >
 
+
+
 ### OUTPUT
 >
 
-# CLOSE READING
+
+
+### CLOSE READING
+#### Cos'è?
+>
+#### Come funziona?
+>
+#### Cosa significa?
+>
+#### E se fosse?!
+>
+
+
+
+### DESIGN FICTION
 >
