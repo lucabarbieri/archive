@@ -36,9 +36,15 @@
 
 
 ### ELABORAZIONE
->I dati vengono consegnati ad un arduino che li converte in segnale per i [*led*](https://www.pannelloled.it/striscia-led-singola-rgb-5m-60led) e i [*motori a vibrazione.*](https://www.cariatielettronica.eu/motori/2653-motore-a-vibrazione-vibratore-15v-arduino.html) Ogni volta che viene scrappata una parola chiave viene inviato un segnale che fa illuminare per 2 secondi tutti i led del quadro corrispondente e fa vibrare per 2 secondi i motori. Nel frattempo il corrispettivo contatore di parole chiave scrappate si incrementa proporzionalmente e ogni 100 parole chiave accumulate manda un segnale che fa illuminare permanentemente, partendo dal basso, una nuova striscia di led.
+>I dati vengono consegnati ad [*Arduino*](https://www.arduino.cc/) che li converte in segnale per i [*led*](https://www.pannelloled.it/striscia-led-singola-rgb-5m-60led) e i [*motori a vibrazione*](https://www.cariatielettronica.eu/motori/2653-motore-a-vibrazione-vibratore-15v-arduino.html). Ogni volta che viene scrappata una parola chiave viene inviato un segnale ad Arduino che fa illuminare per 2 secondi tutti i led del quadro corrispondente e fa vibrare per 2 secondi i motori. Nel frattempo il corrispettivo contatore di parole chiave scrappate si incrementa proporzionalmente e ogni 100 parole chiave accumulate manda un segnale che fa illuminare permanentemente, partendo dal basso, una nuova striscia di led.
 
 
 
 ### VISUALIZZAZIONE
+>
+
+### OUTPUT
+>
+
+# CLOSE READING
 >
