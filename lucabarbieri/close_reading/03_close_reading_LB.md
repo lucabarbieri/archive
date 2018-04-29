@@ -1,4 +1,4 @@
-# Monument (If it Bleeds It Leads) #  
+# Monument (If it Bleeds It Leads) #
 **anno — 2006**   
 **designer — Caleb Larsen**    
 
@@ -13,7 +13,7 @@ Sul soffitto di una stanza è sospeso un contenitore in metacrilato trasparente 
 [+](http://caleblarsen.com/monument/)
 [+](http://classic.rhizome.org/profile/caleblarsen/)
 
-### how does it mean — ###
+### what does it mean — ###
 Le palline sono lanciate con ferocia, e si sbattono contro le pareti come se non ci fosse stata giustizia per queste vittime, in una stanza che diventa cimitero, luogo della memoria. La scelta del giallo, probabilmente si riconduce al classico colore che viene associato al genere legato al crimine. L’installazione fa riflettere sul numero delle persone che ogni giorno muoiono e allo stesso tempo vengono dimenticate. Le palline utilizzate sono quelle del soft air, ma in questo caso, a differenza del gioco che simula il combattimento, le palline sono realmente persone morte.
 Inoltre un’altra interpretazione può essere che ognuno di noi, davanti alla morte è uguale, e per questo tutte le palline sono uguali. Le palline sono anche disposte in maniera casuale e formano un cosmo in continua evoluzione che in qualche modo esprimere la dimensione immensa della morte, fardello dell'uomo. Immaginandosi di fronte all'installazione si desidera vedere la pallina cadere (metafora del fascino delle notizie sanguinose), ma quando questo avviene, la realizzazione della morte ti colpisce in modo personale e nauseante.
 
