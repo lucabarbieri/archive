@@ -5,9 +5,7 @@
 
 
 ### REFERENZE
-#### Garden of Eden
-##### Thorsten Kiesl, Harald Moser, and Timm-Oliver Wilks 
-##### (2007)
+#### Garden of Eden - Thorsten Kiesl, Harald Moser, and Timm-Oliver Wilks (2007)
 >Garden of Eden è un progetto composto da otto lattughe, ognuna delle quali è racchiusa nella sua scatola di plexiglas a tenuta d'aria e rappresenta una grande città. La concentrazione dell'ozono in ciascuna scatola è controllata in tempo reale per riflettere l'attuale livello di inquinamento nella città.
 
 ![Imgur](https://imgur.com/klqOLAD.png)
