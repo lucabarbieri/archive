@@ -41,27 +41,29 @@ Il Quadro della Situazione non allena i nostri anticorpi a combattere le fake ne
 Analizza XML per estrarre dati meteo dal Web con Arduino [+](http://forum.arduino.cc/index.php/topic,39023.0.html) [+](https://forum.arduino.cc/index.php?topic=224719.0)  
 Funzione php per il web scraping [+](https://www.lombardoandrea.com/funzione-php-per-il-web-scraping/)  
 
+
+
 ### VISUALIZZAZIONE
->Più della metà delle ricerche su [*Google*](https://www.theverge.com/2015/10/8/9480779/google-search-mobile-vs-desktop-2015) vengono fatte da mobile. Il modulo iQdS è una sintesi geometrica dei telefoni che abbiamo in tasca: un parallelepipedo sottile, retroilluminato, che occasionalmente vibra. La ricerca di un utente su Google (o più genericamente, l'azione di un utente su una delle 4 piattaforme a disposizione), se corrispondente a quella scelta per l'iQdS, viene prelevato, elaborata in segnali per Arduino e quindi proposta ad un altro utente che la percepirà attraverso l'iQdS sotto forma di vibrazione e luminosità. Il dato viene quindi archiviato e trasformato in segnale per le strisce orizzontali di led, contenute nel modulo, che, progressivamente dal basso, si illuminano proporzionalmente ai dati archiviati dall'avvio.
+>Più della metà delle ricerche su [*Google*](https://www.theverge.com/2015/10/8/9480779/google-search-mobile-vs-desktop-2015) vengono fatte da mobile. Il modulo iQdS è una sintesi geometrica dei telefoni che abbiamo in tasca: un parallelepipedo sottile, retroilluminato, che occasionalmente vibra. La ricerca di un utente su Google (o più genericamente, l'azione di un utente su una delle 4 piattaforme a disposizione), se corrispondente a quella scelta per l'iQdS, viene prelevata, elaborata in segnali per Arduino e quindi proposta ad un altro utente che la percepirà, attraverso l'iQdS, sotto forma di vibrazione e luminosità. Il dato viene quindi archiviato e trasformato in segnale per le strisce orizzontali di led, contenute nel modulo, che, progressivamente dal basso, si illuminano proporzionalmente ai dati archiviati dall'avvio.
 
 
 
 ### OUTPUT
->L'utente entra in una stanza, vede delle tele nere intelaiate e retroilluminate appese al muro come quadri. Sembrano quasi degli smart-phone dalla forma. La retroilluminazione varia, progressivamente dal basso, di intensità di quadro in quadro. Sopra ogni quadro ci sono scritte delle parole chiave, incorniciate in un rettangolo che ricorda quello di Google search (oppure le parole precedute dagli # per i social), e sopra di esse il titolo "il Quadro della Situazione". Uno di quei quadri improvvisamente vibra e si illumina per pochi secondi, poi un altro, un altro ancora per sei volte di fila. Quest'ultimo, dopo la serie di vibro-illuminazioni, diventa permanentemente più illuminato raggiungendo la stessa intensità di quello a fianco. L'utente capisce che c'è una corrispondenza tra hashtag e illuminazione. Quello che l'utente penserà dopo aver capito la metafora popolarità-argomento/illuminazione dipende dal curatore degli argomenti scelti per il confronto.
+>L'utente entra in una stanza, vede delle tele nere intelaiate e retroilluminate appese al muro come quadri. Sembrano quasi degli smart-phone dalla forma. La retroilluminazione varia di intensità, progressivamente dal basso, di quadro in quadro. Sopra ogni quadro ci sono scritte delle parole chiave, incorniciate in un rettangolo che ricorda quello di Google search (oppure le parole precedute dagli # per i social), e sopra di esse il titolo "il Quadro della Situazione". Uno di quei quadri improvvisamente vibra e si illumina per pochi secondi, poi un altro, un altro ancora per sei volte di fila. Quest'ultimo, dopo la serie di vibro-illuminazioni, diventa permanentemente più illuminato raggiungendo la stessa intensità di quello a fianco. L'utente capisce che c'è una corrispondenza tra hashtag e illuminazione. Quello che l'utente penserà dopo aver capito la metafora popolarità-argomento/illuminazione dipende dal curatore degli argomenti scelti per il confronto.
 
 
 
 ### CLOSE READING
 #### Cos'è?
->
+>Il Quadro della Situazione è un modulo comunicativo facilmente riprogrammabile, che rappresenta, tramite illuminazione e vibrazione, un dato trovato sul web.
 #### Come funziona?
->
+>Da Google News, Google Trends, Instagram e Twitter viene scrappata una tipologia di dati prescelti da un curatore che li ha assegnati a un determinato modulo iQdS. Questi dati vengono consegnati ad un Arduino che li converte in segnale per delle strisce di led e dei motori a vibrazione. Ogni volta che viene rilevato un dato Arduino fa illuminare tutti i led all'interno del modulo e fa vibrare i motori per 2 secondi. L'accumulazione dei dati raccolti dall'inizio dello scraping viene proporzionalmente tradotta in retroilluminazione permanente degli iQdS. Il tipo di dato assegnato è scritto sopra al modulo.
 #### Cosa significa?
->
+>L'associazione di più moduli crea una composizione che racconta le scelte e gli interessi degli utenti web. L'utente dentro di sè ricalibra la propria percezione dell'informazione pubblica: chi continuando con nuove riflessioni e chi continuando con la barzelletta interrotta poco prima.
 #### E se fosse?!
->
+>E se non venisse comunicato all'utente il tipo di dato assegnato ad ogni iQdS?! E se l'utente avesse un foglietto con elencati in modo sparso le parole chiave e dovesse provare a indovinare l'associazione giusta?! E se ci fosse alla fine del "gioco" la possibilità di confrontare la propria percezione con quella reale e con quella degli altri?! All'inizio dell'esperienza verrebbe consegnato un foglietto diviso in due parti: da un lato l'elenco sparso degli argomenti e dall'altro un'immagine a pattern di linee che lascia pochi bianchi apparentemente tutta in outline rosso. L'utente dopo aver formulato la sua associazione potrebbe andare col biglietto sotto una lente di film trasparente rosso, posta alla fine dell'esperienza, e verificare la propria percezione con la realtà.
 
 
 
 ### DESIGN FICTION
->
+>Nel 2050 il progetto, mantenendo lo stesso principio, consisterebbe nello scraping del pensiero di tutti e ogni volta che qualcuno pensa a noi verrebbe inviato un segnale che il nostro cervello tradurrebbe in fischio.
