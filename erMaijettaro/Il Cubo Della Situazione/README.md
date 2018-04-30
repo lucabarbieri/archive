@@ -35,7 +35,7 @@ Il Quadro della Situazione non allena i nostri anticorpi a combattere le fake ne
 [**Instagram**](https://github.com/rarcega/instagram-scraper)  
 [**Google News**](https://github.com/jm-contreras/google-news)  
 [**Twitter**](https://github.com/taspinar/twitterscraper)  
-[+](https://www.lombardoandrea.com/funzione-php-per-il-web-scraping/)
+Funzione php per il Web Scraping [+](https://www.lombardoandrea.com/funzione-php-per-il-web-scraping/)
 
 
 ### ELABORAZIONE
