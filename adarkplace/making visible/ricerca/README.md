@@ -191,4 +191,70 @@ NEW REFERENCE
 
 ###### #nasconderemostrare #fisicachemuovelecose #life #tangibile
 
+**Datafossil**
+[+](https://datafossil.xyz/)
+
+
+--------------------
+
+WORLD MAPS
+
+--------------------
+
+**CESIUMjs**
+[+](https://cesiumjs.org/)
+
+**Mapbox**
+[+](https://www.mapbox.com/)
+
+**Invisible Cities**
+[+](https://opendot.github.io/ml4a-invisible-cities/)
+[+](https://opendot.github.io/ml4a-invisible-cities/implementation/)
+[+](https://vimeo.com/194531286)
+
+--------------------
+
+SEA MAPS
+
+--------------------
+
+**Red Sea**
+[+](http://www.ocean-maps.com/redsea.html)
+
+**NOOA**
+[+](https://maps.ngdc.noaa.gov/viewers/marine_geology/)
+
+**EDMODnet - Seabed Habitat**
+[+](http://www.emodnet-seabedhabitats.eu/default.aspx?mapInstance=MESHAtlanticMap_&page=1974&LAYERS=MEDISEH_cora&zoom=3&Y=51.76&X=2.27)
+
+**OpenSeaMap**
+[+](http://openseamap.org/index.php?id=openseamap&L=1)
+
+--------------------
+
+MIGRATIONS
+
+--------------------
+
+**Peoplemov.in**
+[+](http://peoplemov.in/#f_US)
+
+**Brookings - Foresight Africa viewpoint**
+[+](https://www.brookings.edu/blog/africa-in-focus/2018/01/18/foresight-africa-viewpoint-understanding-the-patterns-and-causes-of-african-migration-some-facts/)
+
+**Migration in Motion**
+[+](http://maps.tnc.org/migrations-in-motion/#4/19.00/-78.00)
+
+**National Geographic - See How Birds Migrate**
+[+](https://www.nationalgeographic.com/magazine/2018/03/bird-migration-interactive-maps/)
+
+**National Geographic - Out of Eden**
+[+](https://www.nationalgeographic.org/projects/out-of-eden-walk/#section-5)
+[+](http://worldmap.harvard.edu/maps/completed_route)
+[+](https://gis.harvard.edu/services/project-consultation/project-resume/mapping-out-eden-walk-project)
+
+
+
+
+
 
