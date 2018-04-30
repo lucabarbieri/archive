@@ -126,7 +126,9 @@ invogliare ad andare in quel luogo - creare relazione tra interno ed esterno - l
 - AR: far vedere qualcosa che c'è dentro <br> 
 - contenuti consultsbili su sito? oppure quando vado sul luogo vedo dei contenuti aggiuntivi? <br> 
 - durante lo spettacolo o no? <br> 
-- cuffie fuori dal teatro, ognuna fa sentire cose diverse <br> <br> 
+- cuffie fuori dal teatro, ognuna fa sentire cose diverse <br> 
+- l'esperienza di andare a teatro - le storie degli spettacoli <br> 
+- archivio - dare continuità agli spettacoli (lasciano un segno) - a livello turistico <br> <br> 
 
 RICERCHE: <br> 
 - come usare sensori all'interno del teatro (dal pdv tecnico) <br> 
@@ -138,3 +140,4 @@ ESEMPI: <br>
 - teatro di bologna: fuori dal teatro c'è sempre la musica con la playlist del programma settimanale (non solo durante lo spettacolo
 - 
 
+------
