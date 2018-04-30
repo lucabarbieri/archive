@@ -2,7 +2,7 @@
 ## #riusabile #eclettico #modulabile
 ### CONCEPT
 >Radio, televisore, telefono, social, vetrine, bollette, siamo costantemente immersi nella comunicazione. In un ambiente iper-informante, dove la prestanza atletica non è più rilevante per garantire l'autosopravvivenza, il senso critico diventa fondamentale. Più ci si allena, o meglio, più punti di vista si ascoltano su un argomento più la nostra percezione di esso tenderà alla realtà. Se la nostra conoscienza di un argomento è bassa la nostra opinione sarà facilmente manipolabile e alcuni contenuti censurabili da chi possiede la maggior parte della nostra attenzione.  
-Il Quadro della Situazione è la fisicizzazione modulabile di un dato. Il modulo iQdS permette lo scraping di dati da Google Trends, Instagram, Google News e Twitter e un'assegnazione facile del tipo di dato rischiesto. Una tela nera, appesa al muro, intelaiata, retroilluminata da più strisce led disposte orizzontalmente e dotata di più motori a vibrazione collegati ad un Arduino, si illumina totalmente e vibra per 2 secondi quando lo scraper rileva un dato richiesto. Il contatore di dati viene aggiornato, ogni tot dati viene accesa permanentemente una nuova striscia led che, progressivamente dal basso, retroillumina proporzionalmente il modulo. La composizione di più iQdS permette il confronto tra più dati. La vibrazione attira l'attenzione e le diverse porzioni di retroilluminazione dei vari quadri, accompagnate dalle parole chiave corrispondenti, raccontano un confronto fra interessi sociali, tra argomenti parlati (chi più chi meno).  
+Il Quadro della Situazione è la fisicizzazione modulabile di un dato. Il modulo iQdS permette lo scraping di dati da Google Trends, Instagram, Google News e Twitter e un'assegnazione facile del tipo di dato rischiesto. Una tela nera, appesa al muro, intelaiata, retroilluminata da più strisce led disposte orizzontalmente e dotata di più motori a vibrazione collegati ad un Arduino, si illumina totalmente e vibra per 2 secondi quando lo scraper rileva un dato richiesto. Il contatore di dati viene aggiornato, ogni tot dati viene accesa permanentemente una nuova striscia led che, progressivamente dal basso, retroillumina proporzionalmente il modulo. La composizione di più iQdS permette il confronto tra più dati. La vibrazione attira l'attenzione e le diverse porzioni di retroilluminazione dei vari quadri, accompagnate dalle parole chiave corrispondenti, raccontano un confronto fra interessi sociali, tra argomenti parlati (chi più chi meno), tra piattaforme, tra linguaggi.  
 Il Quadro della Situazione non allena i nostri anticorpi a combattere le fake news, la fuffa e le manipolazioni ma ambisce a generare nell'utente un'analisi del proprio palinsesto informativo, dei propri interessi, e una propulsione alla fruizione di comunicati nuovi, stimolanti e vari per avere una visione, di quello che ci circonda, sempre più tendente alla realtà.
 
 ### REFERENZE
@@ -28,26 +28,26 @@ Il Quadro della Situazione non allena i nostri anticorpi a combattere le fake ne
 
 
 ### DATI
->I dati vengono prelevati con uno scrapper messo a disposizione su Github. Nell'idea originale del progetto viene scrappato l'andamento delle prescelte parole chiave da Google Trend, ma la flessibilità del progetto, oltre a rendere facile l'aggiornamento delle parole chiave da confrontare, permette di poter scegliere fra 4 piattaforme diverse dove fare scraping:  
+>I dati vengono prelevati con uno scraper messo a disposizione su Github scritto in linguaggio [*Python*](https://www.python.org/about/apps/). Nell'idea dimostrativa del progetto viene scrappato l'andamento delle prescelte parole chiave da Google Trend, ma la flessibilità del progetto, oltre a rendere facile l'aggiornamento delle parole chiave da confrontare, permette di poter scegliere fra 4 piattaforme diverse dove fare scraping:  
 [**Google Trends**](https://github.com/clintonboys/trendy-scraper)  
 [**Instagram**](https://github.com/rarcega/instagram-scraper)  
 [**Google News**](https://github.com/jm-contreras/google-news)  
 [**Twitter**](https://github.com/taspinar/twitterscraper)  
-
+[+](https://www.lombardoandrea.com/funzione-php-per-il-web-scraping/)
 
 
 ### ELABORAZIONE
->I dati vengono consegnati ad [*Arduino*](https://www.arduino.cc/) che li converte in segnale per i [*led*](https://www.pannelloled.it/striscia-led-singola-rgb-5m-60led) e i [*motori a vibrazione*](https://www.cariatielettronica.eu/motori/2653-motore-a-vibrazione-vibratore-15v-arduino.html). Ogni volta che viene scrappata una parola chiave viene inviato un segnale ad Arduino che fa illuminare per 2 secondi tutti i led del quadro corrispondente e fa vibrare per 2 secondi i motori. Nel frattempo il corrispettivo contatore di parole chiave scrappate si incrementa proporzionalmente e ogni 100 parole chiave accumulate manda un segnale che fa illuminare permanentemente, partendo dal basso, una nuova striscia di led.
-
-
+>I dati vengono consegnati ad [*Arduino*](https://www.arduino.cc/) che li converte in segnale per i [*led*](https://www.pannelloled.it/striscia-led-singola-rgb-5m-60led) e i [*motori a vibrazione*](https://www.cariatielettronica.eu/motori/2653-motore-a-vibrazione-vibratore-15v-arduino.html). Ogni volta che viene scrappata una parola chiave viene inviato un segnale ad Arduino che fa illuminare per 2 secondi tutti i led del quadro corrispondente e fa vibrare per 2 secondi i motori. Nel frattempo il corrispettivo contatore di parole chiave scrappate si incrementa proporzionalmente e ogni 100 parole chiave accumulate manda un segnale che fa illuminare permanentemente, partendo dal basso, una nuova striscia di led.  
+Analizza XML per estrarre dati meteo dal Web con Arduino [+](http://forum.arduino.cc/index.php/topic,39023.0.html) [+](https://forum.arduino.cc/index.php?topic=224719.0)  
+Funzione php per il web scraping [+](https://www.lombardoandrea.com/funzione-php-per-il-web-scraping/)  
 
 ### VISUALIZZAZIONE
->
+>Più della metà delle ricerche su [*Google*](https://www.theverge.com/2015/10/8/9480779/google-search-mobile-vs-desktop-2015) vengono fatte da mobile. Il modulo iQdS è una sintesi geometrica dei telefoni che abbiamo in tasca: un parallelepipedo sottile, retroilluminato, che occasionalmente vibra. La ricerca di un utente su Google (o più genericamente, l'azione di un utente su una delle 4 piattaforme a disposizione), se corrispondente a quella scelta per l'iQdS, viene prelevato, elaborata in segnali per Arduino e quindi proposta ad un altro utente che la percepirà attraverso l'iQdS sotto forma di vibrazione e luminosità. Il dato viene quindi archiviato e trasformato in segnale per le strisce orizzontali di led, contenute nel modulo, che, progressivamente dal basso, si illuminano proporzionalmente ai dati archiviati dall'avvio.
 
 
 
 ### OUTPUT
->L'utente entra in una stanza, vede delle tele nere intelaite e retroilluminate appese al muro come quadri. Sembrano quasi degli smart-phone dalla forma. La corrispettiva retroilluminazione varia di quadro in quadro. Sopra ogni quadro ci sono scritte delle parole precedute da un # e sopra di esse il titolo "il Quadro della Situazione". Uno di quei quadri improvvisamente vibra e si illumina per pochi secondi, poi un altro, un altro ancora per tre volte di fila. L'utente capisce che c'è una corrispondenza tra hashtag e illuminazione. Quello che l'utente penserà dopo aver capito la metafora popolarità-argomento/illuminazione dipende dal compositore degli argomenti scelti per il confronto.
+>L'utente entra in una stanza, vede delle tele nere intelaiate e retroilluminate appese al muro come quadri. Sembrano quasi degli smart-phone dalla forma. La retroilluminazione varia, progressivamente dal basso, di intensità di quadro in quadro. Sopra ogni quadro ci sono scritte delle parole chiave, incorniciate in un rettangolo che ricorda quello di Google search (oppure le parole precedute dagli # per i social), e sopra di esse il titolo "il Quadro della Situazione". Uno di quei quadri improvvisamente vibra e si illumina per pochi secondi, poi un altro, un altro ancora per sei volte di fila. Quest'ultimo, dopo la serie di vibro-illuminazioni, diventa permanentemente più illuminato raggiungendo la stessa intensità di quello a fianco. L'utente capisce che c'è una corrispondenza tra hashtag e illuminazione. Quello che l'utente penserà dopo aver capito la metafora popolarità-argomento/illuminazione dipende dal curatore degli argomenti scelti per il confronto.
 
 
 
