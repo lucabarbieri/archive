@@ -1,5 +1,5 @@
 **RICERCA INIZIALE**
-
+<br>
 <!-- 
 IL CASTELLO <br>
 Il Castello ha una duplice valenza sia nelle fiabe che in tutti gli altri tipi di racconto: da un lato rappresentano la forma di salvezza dal mondo esterno, dall'altro lato testimoniano l'isolamento di chi ci vive ed un forte senso di solitudine! 
@@ -47,7 +47,8 @@ RICERCA GENERALE <br>
 --> 
 
 __________________________________________________________________________________________________________________________________________
-**REVISIONE 10.4.18**
+**REVISIONE 10.4.18** 
+<br>
 
 Weird Type:
 [+](https://itunes.apple.com/us/app/weird-type/id1352785248?mt=8),
@@ -107,3 +108,33 @@ ________________________________________________________________________________
 Data Visualization: <br> 
 [+](http://www.creativeapplications.net/theory/meibach-and-posavec-data-visualization-poetry-and-sculpture/),
 [+](http://www.creativeapplications.net/processing/fragmented-memory-extracts-from-computers-physical-memory-to-produce-textiles/) <br> 
+
+__________________________________________________________________________________________________________________________________________
+**REVISIONE 27.4.18** 
+<br>
+
+- nasce un nuovo *pubblico*: (1)pubblico all'interno del teatro - (2)pubblico esterno al teatro <br> 
+- creare *interazione* con il pubblico(2) <br> 
+- come comunicare che c'è questo progeto? <br> <br>
+
+invogliare ad andare in quel luogo - creare relazione tra interno ed esterno - legare fisico e digitale  - archiviazione - stratificazione <br> <br> 
+
+--> TEATRO COME LUOGO CHE PRODUCE CULTURA (produzione, scambio, riflessione) <br> 
+- come trasmettere cultura? <br> <br> 
+
+*idee*: <br> 
+- AR: far vedere qualcosa che c'è dentro <br> 
+- contenuti consultsbili su sito? oppure quando vado sul luogo vedo dei contenuti aggiuntivi? <br> 
+- durante lo spettacolo o no? <br> 
+- cuffie fuori dal teatro, ognuna fa sentire cose diverse <br> <br> 
+
+RICERCHE: <br> 
+- come usare sensori all'interno del teatro (dal pdv tecnico) <br> 
+- in che modo vengono usate le app ar? <br> 
+- che dati raccolgo? come li trasformo? <br> 
+- come collego interno e esterno? <br> 
+
+ESEMPI: <br> 
+- teatro di bologna: fuori dal teatro c'è sempre la musica con la playlist del programma settimanale (non solo durante lo spettacolo
+- 
+
