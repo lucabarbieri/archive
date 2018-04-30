@@ -47,6 +47,7 @@ Funzione php per il web scraping [+](https://www.lombardoandrea.com/funzione-php
 
 ### VISUALIZZAZIONE
 >Più della metà delle ricerche su [*Google*](https://www.theverge.com/2015/10/8/9480779/google-search-mobile-vs-desktop-2015) vengono fatte da mobile. Il modulo iQdS è una sintesi geometrica dei telefoni che abbiamo in tasca: un parallelepipedo sottile, retroilluminato, che occasionalmente vibra. La ricerca di un utente su Google (o più genericamente, l'azione di un utente su una delle 4 piattaforme a disposizione), se corrispondente a quella scelta per l'iQdS, viene prelevata, elaborata in segnali per Arduino e quindi proposta ad un altro utente che la percepirà, attraverso l'iQdS, sotto forma di vibrazione e luminosità. Il dato viene quindi archiviato e trasformato in segnale per le strisce orizzontali di led, contenute nel modulo, che, progressivamente dal basso, si illuminano proporzionalmente ai dati archiviati dall'avvio.
+
 ![Imgur](https://imgur.com/khY9pE4.jpg)
 
 
