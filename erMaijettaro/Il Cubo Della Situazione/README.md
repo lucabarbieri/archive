@@ -1,7 +1,7 @@
-# IL CUBO DELLA SITUAZIONE
+# IL QUADRO DELLA SITUAZIONE
 ## #riusabile #eclettico #modulabile
 ### CONCEPT
-> L'utente entra in una stanza e vede cubetti per terra muoversi vibrando, ha un foglietto in mano con su scritto "assegna argomento a cubetto" e un elenco di argomenti lungo uguale al numero di cubetti per terra. L'utente capisce che il vibrare dei cubetti è un indizio per decifrare l'ordine. C'è un elemento che mi fa capire che più vibra il cubetto più la sua notizia è diffusa e parlata. Quando l'utente esce dalla stanza scopre in qualche maniera la giusta corrispondenza.
+>Radio, televisore, telefono, social, vetrine, bollette, siamo costantemente immersi nella comunicazione. In un ambiente iper-informante, dove la prestanza atletica non è più rilevante per garantire l'autosopravvivenza, il senso critico diventa fondamentale. Più ci si allena, o meglio, più punti di vista si ascoltano su un argomento più la nostra percezione di esso tenderà alla realtà. Se la nostra conoscienza di un argomento è bassa la nostra opinione sarà facilmente manipolabile o censurabile da chi possiede la maggior parte della nostra attenzione. Il Quadro della Situazione 
 
 
 ### REFERENZE
@@ -46,7 +46,7 @@
 
 
 ### OUTPUT
->
+>L'utente entra in una stanza, vede delle tele nere intelaite e retroilluminate appese al muro come quadri.  
 
 
 
