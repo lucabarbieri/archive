@@ -64,6 +64,7 @@ Funzione php per il web scraping [+](https://www.lombardoandrea.com/funzione-php
 >L'associazione di più moduli crea una composizione che racconta le scelte e gli interessi degli utenti web. L'utente dentro di sè ricalibra la propria percezione dell'informazione pubblica: chi continuando con nuove riflessioni e chi continuando con la barzelletta interrotta poco prima.
 #### E se fosse?!
 >E se non venisse comunicato all'utente il tipo di dato assegnato ad ogni iQdS?! E se l'utente avesse un foglietto con elencati in modo sparso le parole chiave e dovesse provare a indovinare l'associazione giusta?! E se ci fosse alla fine del "gioco" la possibilità di confrontare la propria percezione con quella reale e con quella degli altri?! All'inizio dell'esperienza verrebbe consegnato un foglietto diviso in due parti: da un lato l'elenco sparso degli argomenti e dall'altro un'immagine a pattern di linee che lascia pochi bianchi apparentemente tutta in outline rosso. L'utente dopo aver formulato la sua associazione potrebbe andare col biglietto sotto una lente di film trasparente rosso, posta alla fine dell'esperienza, e verificare la propria percezione con la realtà in quanto il pattern si perderebbe diventando sfondo omogeneo che farebbe risaltare la soluzione scritta in celestino e quindi non visibile senza lente.
+
 ![Imgur](https://imgur.com/LRIYG5Q.jpg)
 
 
