@@ -50,6 +50,9 @@ ________________________________________________________________________________
 **REVISIONE 10.4.18** 
 <br>
 
+--> RENDERE VISIBILE L'INTERNO DI UN TEATRO <--
+-[+](http://www.lozano-hemmer.com/displaced_emperors.php)
+
 Weird Type:
 [+](https://itunes.apple.com/us/app/weird-type/id1352785248?mt=8),
 [+](https://mashable.com/2018/04/02/weird-type-app/#wztTVYfuqsqx) <br>
