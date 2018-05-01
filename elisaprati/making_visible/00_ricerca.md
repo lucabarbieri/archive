@@ -54,7 +54,8 @@ ________________________________________________________________________________
 -[Displaced Emperors](http://www.lozano-hemmer.com/displaced_emperors.php) <br>
 - [body movies](http://www.lozano-hemmer.com/body_movies.php) <br>
 - [Two Origins](http://www.lozano-hemmer.com/two_origins.php) <br>
-- [Re: Positioning Fear](http://www.lozano-hemmer.com/repositioning_fear.php) <br>
+- [Re: Positioning Fear](http://www.lozano-hemmer.com/repositioning_fear.php) <br><br>
+
 Weird Type:
 [+](https://itunes.apple.com/us/app/weird-type/id1352785248?mt=8),
 [+](https://mashable.com/2018/04/02/weird-type-app/#wztTVYfuqsqx) <br>
@@ -74,7 +75,7 @@ libreria processing GML4U:
 
 
 Altre parole di ricerca: <br>
-cartografia (*) : Scienza e tecnica relativa allo studio e alla realizzazione delle carte geografiche e topografiche
+cartografia (*) : Scienza e tecnica relativa allo studio e alla realizzazione delle carte geografiche e topografiche, <br>
     [+](http://www.creativeapplications.net/theory/mediated-cityscapes-03-diy-cartography-theory/)
 <br>
 esplorazione 
