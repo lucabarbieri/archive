@@ -75,8 +75,7 @@ libreria processing GML4U:
 
 
 Altre parole di ricerca: <br>
-cartografia (*) : Scienza e tecnica relativa allo studio e alla realizzazione delle carte geografiche e topografiche, <br>
-    [+](http://www.creativeapplications.net/theory/mediated-cityscapes-03-diy-cartography-theory/)
+cartografia (*) : Scienza e tecnica relativa allo studio e alla realizzazione delle carte geografiche e topografiche
 <br>
 esplorazione 
 <br>
@@ -110,12 +109,18 @@ ________________________________________________________________________________
 [+](http://www.creativeapplications.net/theory/mediated-cityscapes-03-diy-cartography-theory/), 
 [+](http://www.creativeapplications.net/environment/speculative-cartography-programmed-landscapes-a-chat-with-benedikt-gros/), 
 [+](http://www.creativeapplications.net/processing/radius-music-processing/), 
-[+](http://www.creativeapplications.net/sound/sonification-and-the-re-performance-of-data-an-interview-with-brian-house/) <br> 
-
+[+](http://www.creativeapplications.net/sound/sonification-and-the-re-performance-of-data-an-interview-with-brian-house/), 
+[+](http://www.creativeapplications.net/theory/mediated-cityscapes-03-diy-cartography-theory/) <br> 
+ 
 Data Visualization: <br> 
 [+](http://www.creativeapplications.net/theory/meibach-and-posavec-data-visualization-poetry-and-sculpture/),
 [+](http://www.creativeapplications.net/processing/fragmented-memory-extracts-from-computers-physical-memory-to-produce-textiles/) <br> 
 
+
+AR <br>
+[Second Surface](http://www.creativeapplications.net/openframeworks/second-surface-multi-user-spatial-collaboration-system/) <br>
+[+](https://www.focus.it/tecnologia/tecno-prodotti/originali-graffiti-e-vignette-in-realta-aumentata) <br>
+[wallame](https://itunes.apple.com/app/id963058537) <br>
 __________________________________________________________________________________________________________________________________________
 **REVISIONE 27.4.18** 
 <br>
