@@ -122,7 +122,7 @@ invogliare ad andare in quel luogo - creare relazione tra interno ed esterno - l
 --> TEATRO COME LUOGO CHE PRODUCE CULTURA (produzione, scambio, riflessione) <br> 
 - come trasmettere cultura? <br> <br> 
 
-*idee*: <br> 
+*possibilità*: <br> 
 - AR: far vedere qualcosa che c'è dentro <br> 
 - contenuti consultsbili su sito? oppure quando vado sul luogo vedo dei contenuti aggiuntivi? <br> 
 - durante lo spettacolo o no? <br> 
@@ -141,3 +141,8 @@ ESEMPI: <br>
 - 
 
 ------
+Idee: <br>
+1 - teatro come luogo che genera cultura + archivio + allungare la vita degli spettacoli --> diffondere i contenuti archiviati (output generato dagli spettacoli) in giro per la città --> in questo modo più persone possono entrare a conoscenza dei contenuti culturali che il teatro ospita.
+
+
+
