@@ -37,7 +37,7 @@ RICERCA GENERALE <br>
 [BodyQuake, salvatore iaconesi](http://www.artribune.com/progettazione/new-media/2018/04/intervista-iaconesi-persico-festival-nuove-tecnologie-roma/) <br>
 [Amygdala, Fuse](http://www.creativeapplications.net/maxmsp/codex-anima-mundi-interview-with-fuse/) <br>
 [Volume - Victoria and Albert Museum](https://www.youtube.com/watch?v=udxau7RwdCo) <br>
-[**Under Scan**](https://vimeo.com/26680207) <br>
+**Rafael lozano-hemmer: [Under Scan**](https://vimeo.com/26680207),  [Displaced Emperors](http://www.lozano-hemmer.com/displaced_emperors.php)<br>
 [Son-O-Casa](http://www.evdh.net/sonohouse/) <br>
 [Virtual Depictions](http://www.creativeapplications.net/vvvv/virtual-depictions-san-francisco-cinematic-data-driven-sculpture/) <br>
 [computer’s physical memory to produce textiles](http://www.creativeapplications.net/processing/fragmented-memory-extracts-from-computers-physical-memory-to-produce-textiles)/ <br>
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 <br>
 
 --> RENDERE VISIBILE L'INTERNO DI UN TEATRO <--<br>
--[+](http://www.lozano-hemmer.com/displaced_emperors.php)
+-[Displaced Emperors](http://www.lozano-hemmer.com/displaced_emperors.php)
 
 Weird Type:
 [+](https://itunes.apple.com/us/app/weird-type/id1352785248?mt=8),
