@@ -37,7 +37,7 @@ RICERCA GENERALE <br>
 [BodyQuake, salvatore iaconesi](http://www.artribune.com/progettazione/new-media/2018/04/intervista-iaconesi-persico-festival-nuove-tecnologie-roma/) <br>
 [Amygdala, Fuse](http://www.creativeapplications.net/maxmsp/codex-anima-mundi-interview-with-fuse/) <br>
 [Volume - Victoria and Albert Museum](https://www.youtube.com/watch?v=udxau7RwdCo) <br>
-**Rafael lozano-hemmer: [Under Scan**](https://vimeo.com/26680207),  [Displaced Emperors](http://www.lozano-hemmer.com/displaced_emperors.php)<br>
+**Rafael lozano-hemmer**: [Under Scan](https://vimeo.com/26680207),  [Displaced Emperors](http://www.lozano-hemmer.com/displaced_emperors.php)<br>
 [Son-O-Casa](http://www.evdh.net/sonohouse/) <br>
 [Virtual Depictions](http://www.creativeapplications.net/vvvv/virtual-depictions-san-francisco-cinematic-data-driven-sculpture/) <br>
 [computer’s physical memory to produce textiles](http://www.creativeapplications.net/processing/fragmented-memory-extracts-from-computers-physical-memory-to-produce-textiles)/ <br>
@@ -51,8 +51,10 @@ ________________________________________________________________________________
 <br>
 
 --> RENDERE VISIBILE L'INTERNO DI UN TEATRO <--<br>
--[Displaced Emperors](http://www.lozano-hemmer.com/displaced_emperors.php)
-
+-[Displaced Emperors](http://www.lozano-hemmer.com/displaced_emperors.php) <br>
+- [body movies](http://www.lozano-hemmer.com/body_movies.php) <br>
+- [Two Origins](http://www.lozano-hemmer.com/two_origins.php) <br>
+- [Re: Positioning Fear](http://www.lozano-hemmer.com/repositioning_fear.php) <br>
 Weird Type:
 [+](https://itunes.apple.com/us/app/weird-type/id1352785248?mt=8),
 [+](https://mashable.com/2018/04/02/weird-type-app/#wztTVYfuqsqx) <br>
@@ -150,11 +152,15 @@ ESEMPI: <br>
 ------
 
 Idee: <br>
-1 - teatro come luogo che genera cultura + archivio + allungare la vita degli spettacoli + possibilità di "andare a teatro" anche quando è chiuso (quindi anche da chiuso continua a generare cultura) --> diffondere i contenuti archiviati (output generato dagli spettacoli) in giro per la città --> in questo modo più persone possono entrare a conoscenza dei contenuti culturali che il teatro ospita. --> A. output fisici - B. output digitali <br>
+1 - **teatro come luogo che genera cultura + archivio + allungare la vita degli spettacoli + possibilità di "andare a teatro" anche quando è chiuso** (quindi anche da chiuso continua a generare cultura) --> diffondere i contenuti archiviati (output generato dagli spettacoli) **in giro per la città** --> in questo modo più persone possono entrare a conoscenza dei contenuti culturali che il teatro ospita. --> A. output fisici - B. output digitali <br>
     - contenuti in ar <br>
     - fisico: solo luce/suono <br>
     - usare i battiti cardiaci degli spettatori/attori e rielaborarli per generare grafiche?
-<br><br>
+    - **far rivivere l'esperienza dello spettacolo** --> distributore di biglietti davanti al teatro (i biglietti vengono selezionati a caso tra tutti gli spettacoli che ci sono stati in quel teatro --> tema archivio) - l'utente riceve il biglietto di uno spettacolo e attraverso quello può accedere ai contenuti (quali????) (--> tema di continuità dello spettacolo)
+<br>
+2. si rende visibile l'interno del teatro attraverso la proiezione delle ombre (come???)<br>
+<br>
+
 
 ------
 
