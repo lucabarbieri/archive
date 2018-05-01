@@ -142,7 +142,7 @@ ESEMPI: <br>
 
 ------
 Idee: <br>
-1 - teatro come luogo che genera cultura + archivio + allungare la vita degli spettacoli --> diffondere i contenuti archiviati (output generato dagli spettacoli) in giro per la città --> in questo modo più persone possono entrare a conoscenza dei contenuti culturali che il teatro ospita. --> A. output fisici - B. output digitali
+1 - teatro come luogo che genera cultura + archivio + allungare la vita degli spettacoli + possibilità di "andare a teatro" anche quando è chiuso (quindi anche da chiuso continua a generare cultura) --> diffondere i contenuti archiviati (output generato dagli spettacoli) in giro per la città --> in questo modo più persone possono entrare a conoscenza dei contenuti culturali che il teatro ospita. --> A. output fisici - B. output digitali
 
 
 
