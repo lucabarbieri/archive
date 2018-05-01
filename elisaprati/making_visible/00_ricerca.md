@@ -134,8 +134,8 @@ ________________________________________________________________________________
 - cuffie fuori dal teatro, ognuna fa sentire cose diverse <br> 
 - l'**esperienza** di andare a teatro - le storie degli spettacoli <br> 
 - **archivio** - **dare continuità agli spettacoli (lasciano un segno)** <br> 
-- a livello turistico <br> <br> 
- territorio: diffondere i contenuti in giro per il centro <br> 
+- a livello turistico <br> 
+-  territorio: diffondere i contenuti in giro per il centro <br> <br> 
 
 RICERCHE da fare: <br> 
 - **come usare sensori all'interno del teatro (dal pdv tecnico)** <br> 
