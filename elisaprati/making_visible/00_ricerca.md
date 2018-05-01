@@ -34,7 +34,7 @@ Pixi:
 RICERCA GENERALE <br>
 [sotto sale](http://www.artribune.com/television/2017/09/video-iginio-de-luca-sottosale-saline-puglia/) <br>
 [selfie ghiaia](http://www.artribune.com/television/2018/02/video-installazione-interattiva-selfie-ghiaia-varsavia/) <br>
-[+](http://www.artribune.com/progettazione/new-media/2018/04/intervista-iaconesi-persico-festival-nuove-tecnologie-roma/) <br>
+[BodyQuake, salvatore iaconesi](http://www.artribune.com/progettazione/new-media/2018/04/intervista-iaconesi-persico-festival-nuove-tecnologie-roma/) <br>
 [Amygdala, Fuse](http://www.creativeapplications.net/maxmsp/codex-anima-mundi-interview-with-fuse/) <br>
 [Volume - Victoria and Albert Museum](https://www.youtube.com/watch?v=udxau7RwdCo) <br>
 [Under Scan](https://vimeo.com/26680207) <br>
