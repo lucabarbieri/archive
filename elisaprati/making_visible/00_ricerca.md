@@ -130,19 +130,28 @@ invogliare ad andare in quel luogo - creare relazione tra interno ed esterno - l
 - l'esperienza di andare a teatro - le storie degli spettacoli <br> 
 - archivio - dare continuità agli spettacoli (lasciano un segno) - a livello turistico <br> <br> 
 
-RICERCHE: <br> 
+RICERCHE da fare: <br> 
 - come usare sensori all'interno del teatro (dal pdv tecnico) <br> 
 - in che modo vengono usate le app ar? <br> 
 - che dati raccolgo? come li trasformo? <br> 
 - come collego interno e esterno? <br> 
+- territorio
+- teatro
+- 
 
 ESEMPI: <br> 
 - teatro di bologna: fuori dal teatro c'è sempre la musica con la playlist del programma settimanale (non solo durante lo spettacolo
 - 
+<br><br>
 
 ------
+
 Idee: <br>
 1 - teatro come luogo che genera cultura + archivio + allungare la vita degli spettacoli + possibilità di "andare a teatro" anche quando è chiuso (quindi anche da chiuso continua a generare cultura) --> diffondere i contenuti archiviati (output generato dagli spettacoli) in giro per la città --> in questo modo più persone possono entrare a conoscenza dei contenuti culturali che il teatro ospita. --> A. output fisici - B. output digitali
+<br><br>
 
+------
 
+*utilities*: <br>
+[Linked-Data-Theater](https://github.com/architolk/Linked-Data-Theatre) <br>
 
