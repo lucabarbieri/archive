@@ -50,7 +50,7 @@ ________________________________________________________________________________
 **REVISIONE 10.4.18** 
 <br>
 
---> RENDERE VISIBILE L'INTERNO DI UN TEATRO <--
+--> RENDERE VISIBILE L'INTERNO DI UN TEATRO <--<br>
 -[+](http://www.lozano-hemmer.com/displaced_emperors.php)
 
 Weird Type:
@@ -151,8 +151,9 @@ ESEMPI: <br>
 
 Idee: <br>
 1 - teatro come luogo che genera cultura + archivio + allungare la vita degli spettacoli + possibilità di "andare a teatro" anche quando è chiuso (quindi anche da chiuso continua a generare cultura) --> diffondere i contenuti archiviati (output generato dagli spettacoli) in giro per la città --> in questo modo più persone possono entrare a conoscenza dei contenuti culturali che il teatro ospita. --> A. output fisici - B. output digitali <br>
-    - contenuti in ar 
-    - fisico: solo luce/suono
+    - contenuti in ar <br>
+    - fisico: solo luce/suono <br>
+    - usare i battiti cardiaci degli spettatori/attori e rielaborarli per generare grafiche?
 <br><br>
 
 ------
