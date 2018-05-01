@@ -120,34 +120,38 @@ ________________________________________________________________________________
 
 - nasce un nuovo *pubblico*: (1)pubblico all'interno del teatro - (2)pubblico esterno al teatro <br> 
 - creare *interazione* con il pubblico(2) <br> 
-- come comunicare che c'è questo progeto? <br> <br>
-
-invogliare ad andare in quel luogo - creare relazione tra interno ed esterno - legare fisico e digitale  - archiviazione - stratificazione <br> <br> 
-
---> TEATRO COME LUOGO CHE PRODUCE CULTURA (produzione, scambio, riflessione) <br> 
-- come trasmettere cultura? <br> <br> 
+- come comunicare che c'è questo progeto? <br> 
+- invogliare ad andare in quel luogo <br>
+- creare relazione tra interno ed esterno <br>
+- legare fisico e digitale<br>
+- archiviazione <br> 
+- stratificazione <br> <br> 
 
 *possibilità*: <br> 
 - AR: far vedere qualcosa che c'è dentro <br> 
 - contenuti consultsbili su sito? oppure quando vado sul luogo vedo dei contenuti aggiuntivi? <br> 
-- durante lo spettacolo o no? <br> 
+- durante lo spettacolo o anche prima/dopo? <br> 
 - cuffie fuori dal teatro, ognuna fa sentire cose diverse <br> 
-- l'esperienza di andare a teatro - le storie degli spettacoli <br> 
-- archivio - dare continuità agli spettacoli (lasciano un segno) - a livello turistico <br> <br> 
+- l'**esperienza** di andare a teatro - le storie degli spettacoli <br> 
+- **archivio** - **dare continuità agli spettacoli (lasciano un segno)** <br> 
+- a livello turistico <br> <br> 
+ territorio: diffondere i contenuti in giro per il centro <br> 
 
 RICERCHE da fare: <br> 
-- come usare sensori all'interno del teatro (dal pdv tecnico) <br> 
-- in che modo vengono usate le app ar? <br> 
+- **come usare sensori all'interno del teatro (dal pdv tecnico)** <br> 
+- in che modo vengono usate le **app ar**? <br> 
 - che dati raccolgo? come li trasformo? <br> 
 - come collego interno e esterno? <br> 
-- territorio
-- teatro
-- 
+- territorio <br> 
+- teatro <br> 
+- esperienze esplorazione <br> <br> 
 
 ESEMPI: <br> 
 - teatro di bologna: fuori dal teatro c'è sempre la musica con la playlist del programma settimanale (non solo durante lo spettacolo
-- 
 <br><br>
+
+--> **TEATRO COME LUOGO CHE PRODUCE CULTURA (produzione, scambio, riflessione)** <br> 
+- come trasmettere cultura? <br> <br> 
 
 ------
 
@@ -158,7 +162,7 @@ Idee: <br>
     - usare i battiti cardiaci degli spettatori/attori e rielaborarli per generare grafiche?
     - **far rivivere l'esperienza dello spettacolo** --> distributore di biglietti davanti al teatro (i biglietti vengono selezionati a caso tra tutti gli spettacoli che ci sono stati in quel teatro --> tema archivio) - l'utente riceve il biglietto di uno spettacolo e attraverso quello può accedere ai contenuti (quali????) (--> tema di continuità dello spettacolo)
 <br>
-2. si rende visibile l'interno del teatro attraverso la proiezione delle ombre (come???)<br>
+[NO] 2. si rende visibile l'interno del teatro attraverso la proiezione delle ombre (come???)<br>
 <br>
 
 
