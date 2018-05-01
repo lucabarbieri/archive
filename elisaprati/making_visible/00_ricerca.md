@@ -170,4 +170,4 @@ Idee: <br>
 
 *utilities*: <br>
 [Linked-Data-Theater](https://github.com/architolk/Linked-Data-Theatre) <br>
-
+[Web connected information seeking](http://docplayer.it/amp/44272539-Oggi-si-parla-sempre-di-piu-dei-linked-data-come.html) <br>
