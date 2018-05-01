@@ -32,15 +32,15 @@ Pixi:
 
 
 RICERCA GENERALE <br>
-[sotto sale](http://www.artribune.com/television/2017/09/video-iginio-de-luca-sottosale-saline-puglia/) <br>
+**sotto sale**: [+](http://www.artribune.com/television/2017/09/video-iginio-de-luca-sottosale-saline-puglia/), [+](http://www.lozano-hemmer.com/under_scan.php), [+](http://www.exibart.com/notizia.asp?IDNotizia=14298&IDCategoria=69) <br>
 [selfie ghiaia](http://www.artribune.com/television/2018/02/video-installazione-interattiva-selfie-ghiaia-varsavia/) <br>
 [BodyQuake, salvatore iaconesi](http://www.artribune.com/progettazione/new-media/2018/04/intervista-iaconesi-persico-festival-nuove-tecnologie-roma/) <br>
 [Amygdala, Fuse](http://www.creativeapplications.net/maxmsp/codex-anima-mundi-interview-with-fuse/) <br>
 [Volume - Victoria and Albert Museum](https://www.youtube.com/watch?v=udxau7RwdCo) <br>
-[Under Scan](https://vimeo.com/26680207) <br>
+[**Under Scan**](https://vimeo.com/26680207) <br>
 [Son-O-Casa](http://www.evdh.net/sonohouse/) <br>
 [Virtual Depictions](http://www.creativeapplications.net/vvvv/virtual-depictions-san-francisco-cinematic-data-driven-sculpture/) <br>
-[computer’s physical memory to produce textiles](http://www.creativeapplications.net/processing/fragmented-memory-extracts-from-computers-physical-memory-to-produce-textiles/ <br>
+[computer’s physical memory to produce textiles](http://www.creativeapplications.net/processing/fragmented-memory-extracts-from-computers-physical-memory-to-produce-textiles)/ <br>
 
 <!--
 [alga Noctiluca scintillans](https://it.wikipedia.org/wiki/Noctiluca_scintillans)
