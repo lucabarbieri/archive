@@ -5,7 +5,7 @@ autore | [Caleb Larsen](http://caleblarsen.com/)  <br>
 articoli | [+](http://caleblarsen.com/monument/)
 [+](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)
 [+](http://www.siusoon.net/dat/2008/10/08/inspiring-work-monument-if-it-bleeds-it-leads-2006-by-caleb-larsen/)<br>
-progetti simili |
+progetti simili | [+](http://www.creativeapplications.net/objects/dead-media-mathilde-lavennes-artefact0-digital-necrophony/)
 
 
 
