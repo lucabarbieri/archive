@@ -11,7 +11,9 @@ Con questo progetto si vuole rendere visibili i segni lasciati dagli spettacoli 
 
 <br>
 
-*Il progetto*: Il progetto consistene nel collocare davanti al teatro un distributore di biglietti teatrali degli spettacoli già avvenuti in quel teatro. Viene stampato *a caso* uno dei biglietti, e questo diventa il mezzo attraverso il quale l'utente può rivivere l'esperienza dello spettacolo. 
+*Il progetto*: Il progetto consistene nel collocare davanti al teatro un distributore di biglietti teatrali degli spettacoli già avvenuti in quel teatro. Ad un imput dell'utente il distributore stampa *a caso* uno dei biglietti. Questi sono il mezzo attraverso il quale l'utente può accedere ai contenuti dello spettacolo e riviverne l'esperienza. <br>
+- <br>
+Quali contenuti mostrare? 
 
 
 *Alternative progettuali*: 
