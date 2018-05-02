@@ -50,8 +50,8 @@ ________________________________________________________________________________
 **REVISIONE 10.4.18** 
 <br>
 
---> RENDERE VISIBILE L'INTERNO DI UN TEATRO <--<br>
--[Displaced Emperors](http://www.lozano-hemmer.com/displaced_emperors.php) <br>
+--> RENDERE VISIBILE L'INTERNO DI UN TEATRO <-- <br>
+- [Displaced Emperors](http://www.lozano-hemmer.com/displaced_emperors.php) <br>
 - [body movies](http://www.lozano-hemmer.com/body_movies.php) <br>
 - [Two Origins](http://www.lozano-hemmer.com/two_origins.php) <br>
 - [Re: Positioning Fear](http://www.lozano-hemmer.com/repositioning_fear.php) <br><br>
