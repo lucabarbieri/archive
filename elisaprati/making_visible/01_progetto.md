@@ -26,7 +26,7 @@ Con questo progetto si vuole rendere visibili i segni lasciati dagli spettacoli 
 
 <br>
 
-*Referenze*: 
+<!-- *Referenze*: -->
 
 <br>
 
