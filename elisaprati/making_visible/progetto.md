@@ -17,7 +17,7 @@ Con questo progetto si vuole rendere visibili i segni lasciati dagli spettacoli 
 2. Output digitale: i pensieri rilasciati dal pubblico vengono trasformati in digitale e resi navigabili <br>
 3. Output digitale: un algoritmo raccoglie i pensieri del pubblico dai social <br>
 4. Output fisico/digitale: durante lo spettacolo dei sensori registrano le reazioni del pubblico (applausi) <br> 
-*Pocesso*: 1. Gli spettatori rilasciano un feedback sul biglietto e lo consegnano all'uscita dal teatro/lo mettono direttamente dentro al contenitore - (1.2.a. Digitalizzazione dei contenuti rilasciati - 1.2.b. raccolta dati dai social - 1.2.c. racolta dati durante lo spettacolo) - 2. Gli utenti, in un qualsiasi momento, possono stampare un biglietto dal distributore  3. Gli utenti fruiscono dei contenuti dello spettacolo <br>
+*Pocesso*: 1. Gli spettatori rilasciano un feedback sul biglietto e lo consegnano all'uscita dal teatro/lo mettono direttamente dentro al distributore - (1.2.a. Digitalizzazione dei contenuti rilasciati - 1.2.b. raccolta dati dai social - 1.2.c. racolta dati durante lo spettacolo) - 2. Gli utenti, in un qualsiasi momento, possono stampare un biglietto dal distributore  3. Gli utenti fruiscono dei contenuti dello spettacolo <br>
 *Alternative progettuali*: 
 ( * ) - Distributore solo davanti al teatro o in più punti del centro città? In questo modo si rafforzerebbe il concetto di teatro come divulgatore di cultura. In questo caso i biglietti sarebbero divisi per tipologia (in piazza Prampolini:distributore biglietti Musical, in piazza Delmonte:distributore biglietti prosa...) <br>
 ( ** ) - Focalizzarsi solo sulle emozioni o visualizzare (anche) altri contenuti????
