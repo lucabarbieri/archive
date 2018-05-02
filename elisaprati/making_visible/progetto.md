@@ -12,7 +12,7 @@ Con questo progetto si vuole rendere visibili i segni lasciati dagli spettacoli 
 <br>
 
 *Il progetto*: Il progetto consistene nel collocare davanti al teatro * un distributore di biglietti degli spettacoli già avvenuti in quel teatro. Ad un input dell'utente il distributore stampa *a caso* uno dei biglietti. Questi sono il mezzo attraverso il quale l'utente può accedere ai *contenuti dello spettacolo e riviverne l'esperienza*. <br>
-Quali contenuti mostrare? Sono molteplici i contenuti che si potrebbero visualizzare di uno spettacolo: voci e suoni, movimenti, scenografia, video e fotografie, video immersivo a 360°, le reazioni del pubblico... In quanto il teatro è un luogo che genera una molteplicità di emozioni, la scelta è quella di creare una diversa visualizzazione e un diverso racconto dello spettacolo, quindi focalizzandosi sui pensieri e sulle emozioni che il pubblico ha provato ** . <br>
+*Quali contenuti mostrare?* Sono molteplici i contenuti che si potrebbero visualizzare di uno spettacolo: voci e suoni, movimenti, scenografia, video e fotografie, video immersivo a 360°, le reazioni del pubblico... In quanto il teatro è un luogo che genera una molteplicità di emozioni, la scelta è quella di creare una diversa visualizzazione e un diverso racconto dello spettacolo, quindi focalizzandosi sui pensieri e sulle emozioni che il pubblico ha provato ** . <br>
 *In che modo?* 1. Output fisico direttamente sul biglietto: gli spettatori possono scrivere/disegnare un loro pensiero/emozioni/recensioni rigurdante lo spettacolo direttamente sul biglietto. <br>
 2. Output digitale: i pensieri rilasciati dal pubblico vengono trasformati in digitale e resi navigabili <br>
 3. Output digitale: un algoritmo raccoglie i pensieri del pubblico dai social <br>
