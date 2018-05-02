@@ -6,7 +6,7 @@
 
 <br>
 
-*Concept*: Il concetto base del progetto è **il teatro come luogo produttore di cultura e di emozioni**. In che modo la genera? Attraverso gli spettacoli. Spettacoli che però lasciano un segno nel tempo solo a chi vi ha assistito. <br>
+*Concept*: Il concetto base del progetto è **il teatro come luogo produttore di cultura e di emozioni**. In che modo li genera? Attraverso gli spettacoli. Spettacoli che però lasciano un segno nel tempo solo a chi vi ha assistito. <br>
 Con questo progetto si vuole rendere visibili i segni lasciati dagli spettacoli attraverso una sorta di *archivio teatrale* focalizzato sulla *memoria collettiva*, permettendo così di *allungare la vita degli spettacoli* anche dopo la loro esibizione e di allargare l'*esperienza emozionale* a chiunque voglia fruirne. <br>
 
 <br>
