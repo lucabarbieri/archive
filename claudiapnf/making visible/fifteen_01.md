@@ -65,7 +65,7 @@ Il dato relativo al numero di storie effettuate potrebbe corrispondere all'area 
 
 ***output*** <br>
 (reference visiva) <br>
-![mediated cityscapes 03](https://imgur.com/a/rsQkysb)
+![Image](https://imgur.com/a/rsQkysb)
 
 
 ***cos'è*** <br>
