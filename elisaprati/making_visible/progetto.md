@@ -49,4 +49,4 @@ EMOZIONI: <br>
 <br>
 
 *Design fiction*: 
-
+Tra 20 anni questo progetto potrebbe permettere di rivivere l'esperienza dello spettacolo, ovunque si voglia, attraverso la riproduzione di ologrammi 
