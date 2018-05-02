@@ -1,7 +1,7 @@
-## Immaterials: : Light painting WiFi <br>
+## Immaterials: Light painting WiFi <br>
 di Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen - 2012
 
-<!--- immagine --->
+![Immaterials: Light painting WiFi](https://i.ytimg.com/vi/cxdjfOkPu-E/maxresdefault.jpg)
 
 **what is it?**<br>*Immaterials: : Light painting WiFi* è un progetto, concretizzato in uno short film, in cui una serie di fotografie in time-lapse immortalano e rendono visibile la presenza di network WiFi nella città di Oslo.
 
