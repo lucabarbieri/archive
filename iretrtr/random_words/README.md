@@ -1,1 +1,1 @@
-*random words from an english dictionary*
+*random words from a(n english) dictionary*
