@@ -31,7 +31,7 @@ Quali contenuti mostrare? Sono molteplici i contenuti che si potrebbero visualiz
 <br>
 
 *Dati (raccolta, classificazione, visualizzazione...)*: <br>
-- EMOZIONI: <br>
+EMOZIONI: <br>
 1. Dati generati dagli utenti: <br>
   A. scrivendo/disegnando direttamente sul biglietto <br>
   B. creando contenuti digitali (visualizzabili poi in realtà aumentata, visualizzabili un una mappa navigabile...) <br>
