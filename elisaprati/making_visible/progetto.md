@@ -1,6 +1,26 @@
 *Titolo*: Theatre archive 
 
 <br>
+
+*Parole chiave*: Archivio - Continuità - 
+
 <br>
 
-*Parole chiave*: 
+*Concept*: 
+
+<br>
+
+*Referenze*: 
+
+<br>
+
+*Dati (raccolta, classificazione, visualizzazione, …)*: 
+
+<br>
+
+*Close reading*: 
+
+<br>
+
+*Design fiction*: 
+
