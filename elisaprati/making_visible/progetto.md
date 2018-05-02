@@ -42,9 +42,9 @@ EMOZIONI: <br>
 <br>
 
 *Close reading*: <br>
-*What is*: è un archivio degli spettacoli avvenuti all'interno di quel teatro<br>
-*What does it mean*: significa divulgare cultura attraverso l'allungamento della vita degli spettacoli e la loro rifruizione delle emozioni generate <br>
-*What does it work*: 1. raccolta dati - 2. trasformazione - 3. accesso ai contenuti attraverso un biglietto cartaceo <br>
+*What is*: è un archivio degli spettacoli avvenuti all'interno di quel teatro. <br>
+*What does it mean*: significa divulgare cultura attraverso la creazione dei un archivio degli spettacoli del teatro. Attraverso questo è possibile dare una continuità agli spettacoli e permettere a tutti di riviverne l'esperinza. <br>
+*What does it work*: 1. raccolta dati (fisica o digitale) - 2. trasformazione - 3. accesso ai contenuti attraverso un biglietto teatrale cartaceo <br>
 
 <br>
 
