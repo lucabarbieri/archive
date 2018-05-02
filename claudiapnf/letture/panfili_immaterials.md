@@ -1,6 +1,6 @@
 ## **Immaterials: light painting WiFi**
 anno | 2012  
-luogo | Grunerlokka, Oslo (Norvegia)<br>
+luogo | Grunerlokka, Oslo (Norvegia)<br>u
 autore | [Timo Arnall](http://www.elasticspace.com/) and [Voyoslo Studio](http://voyoslo.com/)<br> 
 articoli | [+](http://voyoslo.com/projects/immaterials-wifi-light-painting/) 
 [+](http://www.designboom.com/design/immaterials-light-painting-wifi-by-timo-arnall-jorn-knutsen-einar-sneve-martinussen/) 
