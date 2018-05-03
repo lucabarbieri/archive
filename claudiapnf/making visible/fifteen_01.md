@@ -86,6 +86,7 @@ Il progetto può significare rendere visibile la vastità e mutevolezza del prod
 La cartografia viene generata secondo parametri creati in base al web scraping dell'applicazione Instagram. I dati acquisiti (nome utente, visualizzazione da parte di altri utenti, risposte alla story etc.) vengono elaborati e trasformati in grandezze tali da definire la morfologia della mappa. Questa cambierà aspetto in base alla produzione e rimozione automatica delle stories. Ad un orario prestabilito, la mappa verrà "fotografata" ed inserita in un da database che fungerà da archivio delle cartografie. L'interfaccia navigabile è composta da un'area dedicata alla cartografia ed una timeline sottostante che permette di visualizzare le mappe precedenti in una versione che mantiene solamente alcuni paramentri (es.dimensione).   
 
 ***cosa succederebbe se*** <br>
+
 Cosa succederebbe se l'output fosse un oggetto fisico? I dati raccolti potrebbero essere elaborati e trasformati in istruzioni che controllano il motorino di un camminatore che si muove lungo una superficie.
 
 ***design fiction*** <br>
