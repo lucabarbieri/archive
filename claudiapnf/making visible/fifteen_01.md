@@ -65,7 +65,8 @@ la frequenza con cui vengono pubblicate <br>
 Il dato relativo al numero di storie effettuate potrebbe corrispondere all'area della cartografia, mentre per ciascun utente autore di una story si potrebbe generare una sorta di insediamento e per ciascuna persona che l'ha visualizzata un abitante. Inoltre, attraverso i tag presenti nella descrizione del profilo, si potrebbe introdurre una classificazione (es. profilo commerciale o non) per capire se la storia è stata creata a fini promozionali o meno, in modo da ottenere una lettura qualitativa dietro la produzione di stories.
 
 
-***reference visiva*** <br>
+***reference visiva*** 
+<br>
 ![](https://i.imgur.com/CRpiBl4.jpg)
 
 
