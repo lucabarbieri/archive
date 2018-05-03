@@ -67,6 +67,7 @@ Il dato relativo al numero di storie effettuate potrebbe corrispondere all'area 
 
 ***reference visiva*** 
 <br>
+<br>
 ![](https://i.imgur.com/CRpiBl4.jpg)
 
 
