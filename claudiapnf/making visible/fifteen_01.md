@@ -21,7 +21,7 @@ Il progetto vuole avvalersi dell'esperienza della catografia in qualità di supp
 
 ***casi studio***
 
-Le parole di Lev Manovich, ricercatore ed autore del libro Instagram and contemporary image, aiutano a definire il campo d'indagine. 
+Le parole di Lev Manovich, ricercatore ed autore del libro *Instagram and contemporary image*, aiutano a definire il campo d'indagine. 
 >Instagram is used in hundreds of different ways by its hundreds of millions of users,
 so any single answer to the question “what is it” will be insufficient. But we can ask a
 different question: what is it in the context of media history? This question is more
