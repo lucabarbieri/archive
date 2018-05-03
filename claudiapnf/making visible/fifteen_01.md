@@ -33,18 +33,20 @@ device. This single platform medium is remarkable development in the history of 
 media. It allows you to capture, edit, and publish photos, view photos of your friends,
 discover other photos through search, interact with them (like, comment, repost, post to
 other networks), enter into conversations with photo authors and others who left
-comments, create photo collections, change their order, etc. all from a single device. *Instagram and contemporary image, Lev Manovich, 2017* 
+comments, create photo collections, change their order, etc. all from a single device.
+
 ![](https://i.imgur.com/ao4X1rV.jpg) <br>
-*Selection of Instagram photos shared by @tienphuc_ (Vietnam)*
+*Selection of Instagram photos shared by @tienphuc_ (Vietnam) Instagram and contemporary image, Lev Manovich, 2017* 
 <br>
 Inequaligram (Cultural Analytics Lab)
 [+](http://noriyukisuzuki.com/ohMy.html) <br>
 Sviluppato dal centro di ricerca Cultural Analytics Lab di Manovich, il progetto consiste in due visualizzazioni interattive delle Instagram images condivise a Manhattan in un periodo di 5 mesi ed ha come obiettivo confrontare la visibilità dei luoghi della città analizzando le condivisioni di turisti ed autoctoni.
 <br>
 <br>
-Oh my () (Noriyuki Suzuki) <br> [+](http://www.creativeapplications.net/arduino-2/oh-my-calling-for-god-in-48-languages-using-twitter-api/) 
+Oh my () (Noriyuki Suzuki) <br> [+]
+(http://www.creativeapplications.net/arduino-2/oh-my-calling-for-god-in-48-languages-using-twitter-api/) 
 Sebbene non si tratti di un progetto legato alla cartografia in senso stretto, Oh my () rappresenta un'interessante spunto di riflessione sul tema del rendere udibile una parola detta in un dato momento. L'intento del progetto è quello di superare i confini delle differenze linguistiche sfruttando le potenzialità di Internet. Prendendo in esame la parola "God", simbolo di diversità religiose e raziali, gli speaker che compongono l'installazione pronunciano la parola nell'appropriata lingua ogni volta che questa compare nelle API di Twitter. Gli speaker sono disposti in modo tale che la lingua corrisponda alla posizione geografica in cui viene parlata.<br>
-
+<br>
 ***dataset*** <br>
  L'acquisizione dei dati avviene attraverso le API di Instagram. [+](https://github.com/mgp25/Instagram-API/blob/master/src/Request/Story.php) [+](https://github.com/CaliAlec/ChromeIGStory) [+](https://github.com/siongui/goigstorylink)  <br>
 Elenco dei dati reperibili: <br>
