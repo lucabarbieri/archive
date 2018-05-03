@@ -1,7 +1,7 @@
 
 # fifteen
 
-***parole chiave*** <br>#mapping <br> #ephemeral <br> #instagram stories
+#mapping <br> #ephemeral <br> #instagram stories
 
 ***premessa***<br>
 
