@@ -21,8 +21,8 @@ Il progetto vuole avvalersi dell'esperienza della catografia in qualità di supp
 
 ***casi studio***
 
-Le parole di Lev Manovich, ricercatore ed autore del libro Instagram and contemporary image, aiutano a definire il campo d'indagine. <br>
-"Instagram is used in hundreds of different ways by its hundreds of millions of users,
+Le parole di Lev Manovich, ricercatore ed autore del libro Instagram and contemporary image, aiutano a definire il campo d'indagine. 
+>Instagram is used in hundreds of different ways by its hundreds of millions of users,
 so any single answer to the question “what is it” will be insufficient. But we can ask a
 different question: what is it in the context of media history? This question is more
 approachable. Here is one way to answer it. Different elements of photo culture that
@@ -33,10 +33,15 @@ device. This single platform medium is remarkable development in the history of 
 media. It allows you to capture, edit, and publish photos, view photos of your friends,
 discover other photos through search, interact with them (like, comment, repost, post to
 other networks), enter into conversations with photo authors and others who left
-comments, create photo collections, change their order, etc. all from a single device."*Instagram and contemporary image, Lev Manovich, 2017* 
-![](https://i.imgur.com/ao4X1rV.jpg)
+comments, create photo collections, change their order, etc. all from a single device.*Instagram and contemporary image, Lev Manovich, 2017* 
+![](https://i.imgur.com/ao4X1rV.jpg) <br>
 <br>
-Oh my () (Noriyuki Suzuki) [+](http://www.creativeapplications.net/arduino-2/oh-my-calling-for-god-in-48-languages-using-twitter-api/) 
+Inequaligram (Cultural Analytics Lab)
+[+](http://noriyukisuzuki.com/ohMy.html) <br>
+Sviluppato dal centro di ricerca Cultural Analytics Lab di Manovich, il progetto consiste in due visualizzazioni interattive delle Instagram images condivise a Manhattan in un periodo di 5 mesi ed ha come obiettivo confrontare la visibilità dei luoghi della città analizzando le condivisioni di turisti ed autoctoni.
+<br>
+<br>
+Oh my () (Noriyuki Suzuki) <br> [+](http://www.creativeapplications.net/arduino-2/oh-my-calling-for-god-in-48-languages-using-twitter-api/) 
 Sebbene non si tratti di un progetto legato alla cartografia in senso stretto, Oh my () rappresenta un'interessante spunto di riflessione sul tema del rendere udibile una parola detta in un dato momento. L'intento del progetto è quello di superare i confini delle differenze linguistiche sfruttando le potenzialità di Internet. Prendendo in esame la parola "God", simbolo di diversità religiose e raziali, gli speaker che compongono l'installazione pronunciano la parola nell'appropriata lingua ogni volta che questa compare nelle API di Twitter. Gli speaker sono disposti in modo tale che la lingua corrisponda alla posizione geografica in cui viene parlata.
 
 ***dataset*** <br>
