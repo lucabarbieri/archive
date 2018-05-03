@@ -11,7 +11,8 @@
            Silence reigned (= there was complete silence) in the church.
            
            Il silenzio é qualcosa di invisibile? Può essere percepito se non attraverso l'udito? Quali significati porta con sè? <br>
-           É sinonimo di assenza, mancanza, distacco o può significare pienezza, riflessione, empatia? 
+           É sinonimo di assenza, mancanza, distacco o può significare presenza, riflessione, empatia? 
+           
 
 
 +    cartography | visual representation | language | symbolism
@@ -29,10 +30,9 @@
     disporlo topograficamente. Si trattava di un tipo di sapere reso accessibile grazie al legato
     dell'arte della memoria, che consentiva di trasformare il savoir topografico in arte della
     mappatura.
-     <br>
+     
     
 +    algorithm | words | stream of consciousness
-
 
         +    *What algorythms want [+](http://www.creativeapplications.net/reviews/what-algorithms-want-reflecting-on-human-agency-in-the-age-of-automation/)* <br>
         Finn describes how an algorithmic object of study is a system-in-motion and the most fertile spot for investigation is the gap between an algorithm’s intended functionality and its effects – that is where epistemological bias, problematic data or training, or unchecked cyberlibertarianism will reveal itself. <br>
