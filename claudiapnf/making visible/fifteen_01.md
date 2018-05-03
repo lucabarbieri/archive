@@ -65,8 +65,7 @@ la frequenza con cui vengono pubblicate <br>
 Il dato relativo al numero di storie effettuate potrebbe corrispondere all'area della cartografia, mentre per ciascun utente autore di una story si potrebbe generare una sorta di insediamento e per ciascuna persona che l'ha visualizzata un abitante. Inoltre, attraverso i tag presenti nella descrizione del profilo, si potrebbe introdurre una classificazione (es. profilo commerciale o non) per capire se la storia è stata creata a fini promozionali o meno, in modo da ottenere una lettura qualitativa dietro la produzione di stories.
 
 
-***output*** <br>
-(reference visiva) <br>
+***reference visiva*** <br>
 ![](https://i.imgur.com/CRpiBl4.jpg)
 
 
@@ -77,10 +76,10 @@ un sito web con cartografia navigabile formata dai dati relativi alle Instagram 
 Il progetto può significare rendere visibile la vastità e mutevolezza del prodotto story facendo trasparire a chi o cosa sono rivolti gli sguardi. Un'altra interpretazione può riguardare invece l'entità del fenomento che ha a che fare con l'affermazione della propria identità personale online e la propria autopromozione.
 
 ***come funziona*** <br>
-La cartografia viene generata secondo parametri creati in base al web scraping dell'applicazione Instagram.
+La cartografia viene generata secondo parametri creati in base al web scraping dell'applicazione Instagram. I dati acquisiti (nome utente, visualizzazione da parte di altri utenti, risposte alla story ecc) vengono elaborati e trasformati in grandezze tali da definire la morfologia della mappa. Questa cambierà aspetto in base alla produzione e rimozione automatica delle stories. Ad un orario prestabilito, la mappa verrà "fotografata" ed inserita in un da database che fungerà da archivio delle cartografie. L'interfaccia navigabile è composta da un'area dedicata alla cartografia ed una timeline sottostante che permette di visualizzare le mappe precedenti in una versione che mantiene solamente alcuni paramentri (es.dimensione).   
 
 ***cosa succederebbe se*** <br>
 Cosa succederebbe se l'output fosse un oggetto fisico? I dati raccolti potrebbero essere elaborati e trasformati in istruzioni che controllano il motorino di un camminatore che si muove lungo una superficie.
 
 ***design fiction*** <br>
-Difficile immaginare il destino dei social più affermati in un futuro non troppo lontano. La nascita di Facebook, ad esempio, risale al 2004, mentre la prima versione di Instagram è di 8 anni fa e probabilmente nel 2010 non avremmo immaginato come si sarebbero evoluti. Nel 20150 il progetto potrebbe trasformarsi in un sistema di intelligenza artificiale che faccia da assistente personale agli utentie e li guidi nella costruzione del proprio io digitale.
+Difficile immaginare il destino dei social più affermati in un futuro non troppo lontano. La nascita di Facebook, ad esempio, risale al 2004, mentre la prima versione di Instagram è di 8 anni fa e probabilmente nel 2010 non avremmo immaginato come si sarebbero evoluti. Nel 2050 il progetto potrebbe trasformarsi in un sistema di intelligenza artificiale che faccia da assistente personale agli utenti e li guidi nella costruzione del proprio io digitale.
