@@ -34,3 +34,4 @@ All'interno di questo scenario si contrappone la sempre più accessibile possibi
 **3** Natura aumentata    
 Neil Harbisson è nato con una forma di acromatopsia. Si è fatto impiantare un'antenna nel cranio per percepire i colori come note. “Per me, il cielo è sempre grigio, i fiori sono grigi, e la televisione è ancora in bianco e nero. Ma posso ascoltare un quadro di Picasso, indossare una canzone o sentire colori che sono invisibili per gli esseri umani.” “Tutte queste informazioni col tempo sono diventate percezioni, e le percezioni si sono poi tramutate in sensazioni. Ho inizato ad avere i miei colori preferiti e sognare a colori”. 
 Come sarebbe percepire profondamente il regno vegetale che c'è intorno a noi? Saremo più sensibili? Scopriremo nuovi mondi?
+
