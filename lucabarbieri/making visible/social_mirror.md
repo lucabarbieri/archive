@@ -46,7 +46,7 @@ Partendo da una storia che è l'insieme delle tue emozioni si crea una sorta di 
 
 **Cosa succederebbe se**   
 Cosa succederebbe se l'output fosse un oggetto fisico o una scultura tridimensionale visibile in realtà aumentata? I dati raccolti potrebbero diventare movimenti di luci e suoni per un'installazione. 
-design fiction
+**design fiction**
 La depressione è destinata a diventare il più grande carico di salute del mondo entro il 2030, e di conseguenza saranno sempre più frequenti i sistemi di analisi delle emozioni per capire in che stato emozionale siano gli individui. Questi fattori, oltre ad essere messi a disposizione da medici ed esperti, diventano un insieme di memorie tracciabili che producono una mappa delle emozioni su vasta scala e vengono forniti alle persone  quotidianamente dei suggerimenti sul come sopravvivere alla tristezza.  
 
 **Dati**    
