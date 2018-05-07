@@ -45,9 +45,9 @@ L'algoritmo di face traking analizza dei punti salienti del volto ed associa ad 
 Partendo da una storia che è l'insieme delle tue emozioni si crea una sorta di diario delle emozioni che dove puoi aggiungere scritte o voci. Il diario metterà in evidenza le emozioni positive, cercando di capirne l'intensità, in modo che siano facili da riconoscere. Le emozioni positive hanno il potere di aiutare le persone a superare momenti di difficoltà e dovrebbero darci la forza di andare avanti cercando di superare i brutti momenti. Infatti pensando e ricordi felici si predispone l'organismo a mettersi nella condizione di essere felice, e per esempio il corpo rilascia serotonina. 
 
 **Cosa succederebbe se**   
-Cosa succederebbe se l'output fosse un oggetto fisico o una scultura tridimensionale visibile in realtà aumentata? I dati raccolti potrebbero diventare movimenti di luci e suoni per un'installazione. 
-**design fiction**
-La depressione è destinata a diventare il più grande carico di salute del mondo entro il 2030, e di conseguenza saranno sempre più frequenti i sistemi di analisi delle emozioni per capire in che stato emozionale siano gli individui. Questi fattori, oltre ad essere messi a disposizione da medici ed esperti, diventano un insieme di memorie tracciabili che producono una mappa delle emozioni su vasta scala e vengono forniti alle persone  quotidianamente dei suggerimenti sul come sopravvivere alla tristezza.  
+Cosa succederebbe se l'output fosse un oggetto fisico o una scultura tridimensionale visibile in realtà aumentata? I dati raccolti potrebbero diventare movimenti di luci e suoni per un'installazione.  
+**design fiction**  
+La depressione è destinata a diventare il più grande carico di salute del mondo entro il 2030, e di conseguenza saranno sempre più frequenti i sistemi di analisi delle emozioni per capire in che stato emozionale siano gli individui. Questi fattori, oltre ad essere messi a disposizione da medici ed esperti, diventano un insieme di memorie tracciabili che producono una mappa delle emozioni su vasta scala e vengono forniti alle persone  quotidianamente dei suggerimenti sul come sopravvivere alla tristezza.    
 
 **Dati**    
 Le foto pubblicate relative ai social network possono essere presi mediante le API (es. Facebook API). 
