@@ -63,8 +63,8 @@ Per quanto riguarda i testi il servizio Tone Alalyzer progettato da IBM utilizza
 - applicazione in realtà aumentata che trasforma i tuoi post modificando il volto con la reale espressione manifestata 
 
 **Fonti (principali)**   
-Wednesday is Indigo Blue: Discovering the Brain of Synesthesia (with David Eagleman), Foreword by Dmitri Nabokov (2009). Cambridge: MIT Press. ISBN 978-0-262-01279-9
-Wilma Bucci, Psicoanalisi e scienza cognitiva. Una teoria del codice multiplo. G. Fioriti Editore, Roma 1999
+Wednesday is Indigo Blue: Discovering the Brain of Synesthesia (with David Eagleman), Foreword by Dmitri Nabokov (2009). Cambridge: MIT Press. ISBN 978-0-262-01279-9   
+Wilma Bucci, Psicoanalisi e scienza cognitiva. Una teoria del codice multiplo. G. Fioriti Editore, Roma 1999   
 
 **annotazioni**   
 Le emozioni negative influenzano il sistema immunitario compromettendo alcune cellule e peggiorando progressivamente l'individuo che è più esposto ad alcune malattie. 
