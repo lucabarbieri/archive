@@ -33,8 +33,6 @@ Il progetto Typeface è uno studio sul riconoscimento facciale e sulla progettaz
 Google Faces è un agente di ricerca indipendente creato in openFrameworks che si libra sul mondo per individuare tutti i volti che sono nascosti sulla terra. Le applicazioni cercano l'immagine di un satellite dopo l'altra, in modo da alimentare l'algoritmo di rilevamento del volto con campioni di paesaggi. Una volta che l'agente ha completato la ricerca mondiale, passa al livello di zoom successivo e ricomincia da capo. [+](https://onformative.com/work/google-faces?p=lab/googlefaces/)Progetti correlati a questo sono il tracciamento di volti all'interno delle nuvole nel progetto Cloud di Shinseungback Kimiyonghun. [+](http://ssbkyh.com/works/cloud_face/)
 
 **Il Progetto**  
-Per quanto riguarda i testi il servizio Tone Alalyzer progettato da IBM utilizza l'analisi linguistica per rilevare i toni di gioia, paura, tristezza, rabbia, analitici, sicuri e incerti presenti in un determinato testo. [+](https://tone-analyzer-demo.ng.bluemix.net) 
-
 **Cos'è**   
 Un attacco hacking sta per cancellare tutti i tuoi contenuti online, la tua vita social è appena tra la vita e una morte. In 60 secondi vengono compressi tutti i tuoi ricordi, che cosa proveresti? 
 Il programma basandosi sulle tue immagini postate sui social networks, te ne fa rivivere una parte. In breve tempo l'utente ripercorrerà la storia della sua vita sui social e verrà tenuta traccia delle emozioni prodotte in base alle espressioni del volto. Verranno messi in evidenza i punti dove le emozioni non sono congruenti e l'utente avrà una cartina tornasole delle emozioni provate producendo una mappa navigabile delle emozioni. 
@@ -57,6 +55,7 @@ Per quanto riguarda il riconoscimento delle emozioni attraverso il volto Microso
 Le emozioni rilevate sono rabbia, disprezzo, disgusto, paura, felicità, neutralità, tristezza e sorpresa. Queste emozioni sono comprese interculturalmente e universalmente con particolari espressioni facciali. [+](https://azure.microsoft.com/en-us/services/cognitive-services/emotion/)
 Affectiva è un'altra soluzione per il rilevamento di ingaggi su larga scala. Offrono SDK e API per gli sviluppatori mobili e forniscono una buona analisi visiva per tracciare le espressioni nel tempo. [+](https://www.affectiva.com/how/how-it-works/)
 Per quanto riguarda i testi il servizio Tone Alalyzer progettato da IBM utilizza l'analisi linguistica per rilevare i toni di gioia, paura, tristezza, rabbia, analitici, sicuri e incerti presenti in un determinato testo. [+](https://tone-analyzer-demo.ng.bluemix.net)
+Per quanto riguarda i testi il servizio Tone Alalyzer progettato da IBM utilizza l'analisi linguistica per rilevare i toni di gioia, paura, tristezza, rabbia, analitici, sicuri e incerti presenti in un determinato testo. [+](https://tone-analyzer-demo.ng.bluemix.net) 
 
 **Possibili output**   
 - installazione immersiva dove le persone si mettono in relazione alle proprie emozioni esplorandole all'interno di un ambiente di realtà virtuale
