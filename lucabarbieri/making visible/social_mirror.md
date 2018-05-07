@@ -67,7 +67,7 @@ Wednesday is Indigo Blue: Discovering the Brain of Synesthesia (with David Eagle
 Wilma Bucci, Psicoanalisi e scienza cognitiva. Una teoria del codice multiplo. G. Fioriti Editore, Roma 1999
 
 **annotazioni**   
-Le emozioni negative influenzano il sistema immunitario compromettendo alcune cellule e peggiorando progressivamente l'individuo che è più esposto a alcune malattie. 
+Le emozioni negative influenzano il sistema immunitario compromettendo alcune cellule e peggiorando progressivamente l'individuo che è più esposto ad alcune malattie. 
 Il carattere in informatica è un'unità minima di informazione che corrisponde ad un grafema, o un simbolo, della forma scritta di una lingua naturale. Questo minimo elemento può tenere traccia, e rendere visibili, lo stato d'animo in cui si sta scrivendo, in modo da tracciare una mappa che metta in luce le emozioni, una narrazione emotiva. 
 Le emozioni diventando visibili insieme ad alcune parole chiave tentano di offrire un'esperienza sinestetica dove si aprono nuovi orizzonti espressivi. Uno strumento che apre l'esplorazione delle proprie emozioni.
 
