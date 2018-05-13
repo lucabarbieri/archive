@@ -25,7 +25,8 @@ Collide è un'installazione site-specific commissionata da Dolby Laboratories a 
 **Typeface**  
 Mary Huang
 ![Typeface](https://i.imgur.com/l8ReJji.png)
-Il progetto Typeface è uno studio sul riconoscimento facciale e sulla progettazione tipografica, creando un carattere tipografico che corrisponde a ciascun individuo, come un ritratto tipografico. Un po 'simile al progetto Laika - carattere tipografico interattivo [+](http://www.nahornyj.com/lazypen.html), la sfida qui rappresentava i limiti del sistema di tipo geometrico, essendo in grado di consentire una grande quantità di variazioni mantenendo un livello generale di qualità nelle lettere. Questo è stato reso particolarmente difficile utilizzando lettere minuscole. [+](http://www.rhymeandreasoncreative.com/blog/?p=71)
+Il progetto Typeface è uno studio sul riconoscimento facciale e sulla progettazione tipografica, creando un carattere tipografico che corrisponde a ciascun individuo, come un ritratto tipografico. Un po 'simile al progetto Laika - carattere tipografico interattivo [+](http://www.nahornyj.com/lazypen.html)     
+La sfida qui rappresentava i limiti del sistema di tipo geometrico, essendo in grado di consentire una grande quantità di variazioni mantenendo un livello generale di qualità nelle lettere. Questo è stato reso particolarmente difficile utilizzando lettere minuscole. [+](http://www.rhymeandreasoncreative.com/blog/?p=71)
 
 **Google Faces**  
 2013, Onformative   
@@ -52,10 +53,10 @@ La depressione è destinata a diventare il più grande carico di salute del mond
 **Dati**    
 Le foto pubblicate relative ai social network possono essere presi mediante le API (es. Facebook API). 
 Per quanto riguarda il riconoscimento delle emozioni attraverso il volto Microsoft ha rilasciato una versione beta del servizio Face API. “Emoticon API” prende un'espressione facciale in un'immagine come input e restituisce una serie di parametri tradotte in una serie di emozioni per ciascun volto riconosciuto nell'immagine, oltre al riquadro di delimitazione per il viso.
-Le emozioni rilevate sono rabbia, disprezzo, disgusto, paura, felicità, neutralità, tristezza e sorpresa. Queste emozioni sono comprese interculturalmente e universalmente con particolari espressioni facciali. [+](https://azure.microsoft.com/en-us/services/cognitive-services/emotion/)
-Affectiva è un'altra soluzione per il rilevamento di ingaggi su larga scala. Offrono SDK e API per gli sviluppatori mobili e forniscono una buona analisi visiva per tracciare le espressioni nel tempo. [+](https://www.affectiva.com/how/how-it-works/)
-Per quanto riguarda i testi il servizio Tone Alalyzer progettato da IBM utilizza l'analisi linguistica per rilevare i toni di gioia, paura, tristezza, rabbia, analitici, sicuri e incerti presenti in un determinato testo. [+](https://tone-analyzer-demo.ng.bluemix.net)
-Per quanto riguarda i testi il servizio Tone Alalyzer progettato da IBM utilizza l'analisi linguistica per rilevare i toni di gioia, paura, tristezza, rabbia, analitici, sicuri e incerti presenti in un determinato testo. [+](https://tone-analyzer-demo.ng.bluemix.net) 
+Le emozioni rilevate sono rabbia, disprezzo, disgusto, paura, felicità, neutralità, tristezza e sorpresa. Queste emozioni sono comprese interculturalmente e universalmente con particolari espressioni facciali. [+](https://azure.microsoft.com/en-us/services/cognitive-services/emotion/)    
+Affectiva è un'altra soluzione per il rilevamento di ingaggi su larga scala. Offrono SDK e API per gli sviluppatori mobili e forniscono una buona analisi visiva per tracciare le espressioni nel tempo. [+](https://www.affectiva.com/how/how-it-works/)        
+Per quanto riguarda i testi il servizio Tone Alalyzer progettato da IBM utilizza l'analisi linguistica per rilevare i toni di gioia, paura, tristezza, rabbia, analitici, sicuri e incerti presenti in un determinato testo. [+](https://tone-analyzer-demo.ng.bluemix.net)    
+Per quanto riguarda i testi il servizio Tone Alalyzer progettato da IBM utilizza l'analisi linguistica per rilevare i toni di gioia, paura, tristezza, rabbia, analitici, sicuri e incerti presenti in un determinato testo. [+](https://tone-analyzer-demo.ng.bluemix.net)     
 
 **Possibili output**   
 - installazione immersiva dove le persone si mettono in relazione alle proprie emozioni esplorandole all'interno di un ambiente di realtà virtuale
