@@ -4,5 +4,7 @@ generate diverse and unexpected results
 
 *Reference*   
 [10 Print, 134], Strachey, The Thinking Machine, 1954, 25–31.
-[+](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)
+[+](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)  
+
+*Example*    
 [![loveletter.jpg](http://www.i-programmer.info/images/stories/News/2012/OCT/A/loveletter.jpg)
