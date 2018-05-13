@@ -7,4 +7,4 @@ generate diverse and unexpected results
 [+](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)  
 
 *Example*    
-[![loveletter.jpg](http://www.i-programmer.info/images/stories/News/2012/OCT/A/loveletter.jpg)
+![loveletter.jpg](http://www.i-programmer.info/images/stories/News/2012/OCT/A/loveletter.jpg)
