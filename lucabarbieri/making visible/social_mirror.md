@@ -34,8 +34,8 @@ Google Faces è un agente di ricerca indipendente creato in openFrameworks che s
 
 **Il Progetto**  
 **Cos'è**   
-Un attacco hacking sta per cancellare tutti i tuoi contenuti online, la tua vita social è appesa tra la vita e una morte. In 60 secondi vengono compressi tutti i tuoi ricordi, che cosa proveresti? 
-Il programma basandosi sulle tue immagini postate sui social networks, te ne fa rivivere una parte. In breve tempo l'utente ripercorrerà la storia della sua vita sui social e verrà tenuta traccia delle emozioni prodotte in base alle espressioni del volto. Verranno messi in evidenza i punti dove le emozioni non sono congruenti e l'utente avrà una cartina tornasole delle emozioni provate producendo una mappa navigabile delle emozioni. 
+Un attacco hacking sta per cancellare tutti i tuoi contenuti online, la tua vita social è appesa tra la vita e la morte. In 60 secondi vengono compressi tutti i tuoi ricordi, che cosa proveresti? 
+Il programma basandosi sulle tue immagini postate sui social networks, te ne fa rivivere una parte. In breve tempo l'utente ripercorrerà la storia della sua vita sui social e verrà tenuta traccia delle emozioni prodotte in base alle espressioni del volto. Verranno messi in evidenza i punti dove le emozioni non sono congruenti e l'utente avrà una timeline navigabile delle emozioni provate.    
 
 **Cosa significa**   
 Il progetto mira a rendere visibili le emozioni relative all'attività sui social e una interpretazione può essere quella di spronare le persone a riflettere che le emozioni suscitate da un ricordo non sono fisse e chiuse dentro un sorriso, ma sono più vicine al contesto e alle sensazioni che il ricordo induce. La relazione del contenuto all'emozione diviene portale per scaturire altro, in un'esplorazione sinestetica. 
