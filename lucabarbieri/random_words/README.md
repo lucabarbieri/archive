@@ -3,5 +3,5 @@ Noah Wardrip-Fruin identifies the British computer scientist Christopher Strache
 generate diverse and unexpected results 
 
 *Reference*   
-([10 Print, 134], Strachey, The Thinking Machine, 1954, 25–31).
+[10 Print, 134], Strachey, The Thinking Machine, 1954, 25–31.
 [+](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)
