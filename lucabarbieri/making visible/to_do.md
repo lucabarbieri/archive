@@ -5,5 +5,5 @@
 ##### 3_ CSV con img e dati (es. data creazione dell'immagine) per iniziare a capire quali dati utilizzare e come <br>
 ##### 4_ Fare testing sulle API di Affectiva / contattare assistenza <br>
 
-annotazioni
+annotazioni <br>
 ... 
