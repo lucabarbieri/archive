@@ -35,8 +35,8 @@ function preload(){
 function setup()
 {
   frameRate(30);
-  background(51);
   createCanvas(windowWidth, windowHeight);
+  background(51);
   img = loadImage("assets/name.jpg");
   preload();
 
