@@ -73,8 +73,32 @@ function draw()
     }
 
 
-    image(img[img_count], windowWidth/2, windowHeight/2, img[img_count].width, img[img_count].height);
-    filter(GRAY);
+  image(img[img_count], windowWidth/2, windowHeight/2, img[img_count].width, img[img_count].height);
+
+        /*
+        // pixel manipulation image
+        noStroke();
+        img[img_count].loadPixels();
+
+        for (var y = 0; y < img[img_count].height; y += 8) { //x e y spaziatura
+        for (var x = 0; x < img[img_count].width; x += 8) {
+        // Simple but slow
+        //var pix = img.get(x, y);
+        // Fast but complicated
+        var r = img[img_count].pixels[(y*img[img_count].width+x)*4];
+        var g = img[img_count].pixels[(y*img[img_count].width+x)*4+1];
+        var b = img[img_count].pixels[(y*img[img_count].width+x)*4+2];
+
+        //fill(255);
+        //text(pixel, x, y);
+
+        fill(r, g, b);
+        ellipse(x, y, 4, 4); // dimensione cerchi
+          }
+        }
+    */
+
+  filter(GRAY);
 
     //stroke(255);
     //line(frameCount, height*0.79, frameCount+1, height*0.79);
@@ -93,7 +117,7 @@ function draw()
   }
 }
 
-// possibili implementazioni future
+// implementazioni future
 // Tool di creazione di immagini campioni, fake (un Lorem ipsum delle immagini)
 
 /*
