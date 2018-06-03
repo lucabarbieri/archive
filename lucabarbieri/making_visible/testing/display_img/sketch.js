@@ -21,8 +21,10 @@ Object {
 */
 
 var img = [];
-var display_timing = [100,180,600,800,1000,1200,1400,1600,1800,2000];
+var display_timing = [100,200,300,400,500,600,700,800,900,1000];
 var img_count = 0;
+var orientation = [];
+var ratio = [];
 
 function preload(){
  for(var i =0; i<10;i++){
@@ -55,13 +57,43 @@ function draw()
   if (frameCount === display_timing[img_count]){
     background(51);
     // [url, position_width, position_height, dimension_x, dimension_y]
-    image(img[img_count], width/2, height/2, img[img_count].width/2, img[img_count].height/2); // display the img
+
+      // orientation array
+      if (img[img_count].width >= img[img_count].height ){
+        orientation[img_count] = "horizontal";
+      }else{
+        orientation[img_count] = "vertical";
+      }
+
+    // set the ratio of image
+    ratio[img_count] = img[img_count].width / img[img_count].height;
+
+  if (windowWidth < img[img_count].width) {
+      img[img_count].height = img[img_count].width * ratio[img_count];
+    }
+
+
+    image(img[img_count], windowWidth/2, windowHeight/2, img[img_count].width, img[img_count].height);
+    filter(GRAY);
+
+    //stroke(255);
+    //line(frameCount, height*0.79, frameCount+1, height*0.79);
+
     img_count ++;
+
+    stroke(255);
+    for (var a=0; a<10; a++){
+    line(display_timing[a], height*0.89, display_timing[a]+2, height*0.89);
+    }
+  }
+
+    stroke(255);
+    if (frameCount < 1100 && frameCount > 100){
+    line(frameCount, height*0.9, frameCount, height*0.9);
   }
 }
 
-
-// implementazioni future
+// possibili implementazioni future
 // Tool di creazione di immagini campioni, fake (un Lorem ipsum delle immagini)
 
 /*
