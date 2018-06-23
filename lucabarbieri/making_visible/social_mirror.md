@@ -87,6 +87,9 @@ Per quanto riguarda i testi il servizio Tone Alalyzer progettato da IBM utilizza
 - installazione immersiva dove le persone si mettono in relazione alle proprie emozioni esplorandole all'interno di un ambiente di realtà virtuale
 - traduzione del diario emozionale in un oggetto fisico che un utente, anche non vedente, può esplorare con il tatto
 
+**Sviluppi futuri**</br>
+L’informatica è stata a lungo intrecciata con i sogni tecnologici della società. Il sogno delle case automatizzate si riferisce all’informatica onnipresente, proprio come il sogno delle macchine senzienti si riferisce all’intelligenza artificiale (AI). Un altro dei sogni della società è quello che le persone attraverso il computer possano diventare chiunque o qualunque cosa vogliamo essere. In parte questo è possibile ma la consapevolezza del cosa succede all’interno di questi algoritmi di riconoscimento è paradossalmente oscura. Rendere consapevoli le persone degli strumenti di automazione di tracciamento di dati personali non sono è soltanto utile nei social network ma può essere un discorso ampliato e divenire una normativa che gli sviluppatori sono tenuti a rispettare integrando grafici e modelli nelle applicazioni in modo che gli utenti possano abilitare o disabilitare facilmente e chiaramente funzioni specifiche esercitando le proprie libertà. 
+
 **Fonti (principali)**<br>
 Wednesday is Indigo Blue: Discovering the Brain of Synesthesia (with David Eagleman), Foreword by Dmitri Nabokov (2009). Cambridge: MIT Press. ISBN 978-0-262-01279-9   
 Wilma Bucci, Psicoanalisi e scienza cognitiva. Una teoria del codice multiplo. G. Fioriti Editore, Roma 1999   
