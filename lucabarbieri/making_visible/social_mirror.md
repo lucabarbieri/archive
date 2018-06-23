@@ -1,5 +1,5 @@
 ### social mirror: the intimate relationship with your posts ###
-[Making visible 1.0 alpha]<br>
+[Making visible 1.1 alpha]<br>
 
 *#synestesia #emotion #words #portal #closeness*<br>
 
