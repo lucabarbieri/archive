@@ -33,7 +33,7 @@ L’algoritmo si adatta al modello facciale utilizzando 70 piccoli classificator
 Spin-off del MIT Media Lab è Affectiva, un’altra soluzione per il rilevamento di emozioni su larga scala delle emozioni in tempo reale. <br>
 Su base di uno studio di Marko Tkalcic dell’Università di Bolzano ho scelto di utilizzare Affectiva perché è uno degli strumenti più performanti per il riconoscimento delle emozioni e viene ceduto in licenza gratuita a studenti. 
 <br>
-Pensiamo a tutti i luoghi in cui mostriamo la nostra faccia ogni giorno. I negozianti, le forze dell’ordine o gli estranei che possono catturarci in una foto. Trasformando questi dati possono essere usati per identificarci, rintracciarci o sorvegliarci. Questi usi del riconoscimento facciale valgono l’erosione della nostra privacy e i rischi persistenti di errata identificazione?<br>
+Pensiamo a tutti i luoghi in cui mostriamo la nostra faccia ogni giorno. I negozianti, le forze dell’ordine o gli estranei che possono catturarci in una foto. Trasformando questi dati possono essere usati per identificarci, rintracciarci o sorvegliarci. Questi usi del riconoscimento facciale valgono l’erosione della nostra privacy e i rischi persistenti di errata identificazione?<br><br>
 Affectiva Face Tracking - Testing <br>
 ![face traking](https://i.imgur.com/TtNpEo7.png)
 
